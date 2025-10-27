@@ -1,0 +1,22 @@
+2025-09-09 10:56:37,540 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 10:56:37,541 - INFO - Đã tạo thư mục: ../dataset/link/fpt_online
+2025-09-09 10:56:51,293 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 4
+2025-09-09 10:56:51,293 - INFO - Đang crawl trang 1...
+2025-09-09 10:56:57,081 - INFO - Đã trích xuất 20 bài viết từ trang 1
+2025-09-09 10:56:57,081 - INFO - Đã lưu 20 bài viết vào ../dataset/link/fpt_online/fpt_online_page_1.json
+2025-09-09 10:56:57,081 - INFO - Đã hoàn thành trang 1 với 20 bài viết
+2025-09-09 10:56:59,083 - INFO - Đang crawl trang 2...
+2025-09-09 10:57:02,550 - INFO - Đã trích xuất 20 bài viết từ trang 2
+2025-09-09 10:57:02,551 - INFO - Đã lưu 20 bài viết vào ../dataset/link/fpt_online/fpt_online_page_2.json
+2025-09-09 10:57:02,551 - INFO - Đã hoàn thành trang 2 với 20 bài viết
+2025-09-09 10:57:04,552 - INFO - Đang crawl trang 3...
+2025-09-09 10:57:07,873 - INFO - Đã trích xuất 20 bài viết từ trang 3
+2025-09-09 10:57:07,874 - INFO - Đã lưu 20 bài viết vào ../dataset/link/fpt_online/fpt_online_page_3.json
+2025-09-09 10:57:07,874 - INFO - Đã hoàn thành trang 3 với 20 bài viết
+2025-09-09 10:57:09,875 - INFO - Đang crawl trang 4...
+2025-09-09 10:57:13,236 - INFO - Đã trích xuất 7 bài viết từ trang 4
+2025-09-09 10:57:13,236 - INFO - Đã lưu 7 bài viết vào ../dataset/link/fpt_online/fpt_online_page_4.json
+2025-09-09 10:57:13,236 - INFO - Đã hoàn thành trang 4 với 7 bài viết
+2025-09-09 10:57:15,239 - INFO - Đã lưu tổng cộng 67 bài viết vào ../dataset/link/fpt_online/fpt_online_all_articles.json
+2025-09-09 10:57:15,240 - INFO - Hoàn thành crawl! Tổng cộng 67 bài viết từ 4 trang
+2025-09-09 10:57:15,302 - INFO - Đã đóng WebDriver

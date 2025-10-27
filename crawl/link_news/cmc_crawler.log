@@ -1,0 +1,2103 @@
+2025-09-09 10:33:46,185 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 10:33:46,185 - INFO - Đã tạo thư mục: ../dataset/link/cmc_corporation
+2025-09-09 10:33:46,185 - INFO - Bắt đầu crawl dữ liệu từ CMC Corporation
+2025-09-09 10:33:46,185 - INFO - Đang crawl trang 1...
+2025-09-09 10:34:26,438 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-09 10:34:26,438 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-09 10:34:26,438 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-09 10:34:28,440 - INFO - Đang crawl trang 2...
+2025-09-09 10:34:56,106 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-09 10:34:56,106 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-09 10:34:56,106 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-09 10:34:58,108 - INFO - Đang crawl trang 3...
+2025-09-09 10:35:11,082 - INFO - Đã trích xuất 8 bài viết từ trang 3
+2025-09-09 10:35:11,082 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_3.json
+2025-09-09 10:35:11,082 - INFO - Đã hoàn thành trang 3 với 8 bài viết
+2025-09-09 10:35:13,083 - INFO - Đang crawl trang 4...
+2025-09-09 10:35:21,590 - INFO - Crawl bị dừng bởi người dùng
+2025-09-09 10:35:21,591 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ac5713f74f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/6590e3f1449b2ab7f139b7aed20ebd00
+2025-09-09 10:35:21,591 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ac5713f7640>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/6590e3f1449b2ab7f139b7aed20ebd00
+2025-09-09 10:35:21,591 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ac5713f77c0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/6590e3f1449b2ab7f139b7aed20ebd00
+2025-09-09 10:35:21,591 - INFO - Đã đóng WebDriver
+2025-09-09 10:35:32,526 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 10:35:41,647 - ERROR - Lỗi không mong đợi: 'CMCCrawler' object has no attribute 'crawl_pages_range'
+2025-09-09 10:35:41,703 - INFO - Đã đóng WebDriver
+2025-09-09 10:38:00,920 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 10:38:00,920 - INFO - Bắt đầu crawl dữ liệu từ CMC Corporation
+2025-09-09 10:38:00,920 - INFO - Đang crawl trang 1...
+2025-09-09 10:40:20,411 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-09 10:40:20,411 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-09 10:40:20,411 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-09 10:40:22,413 - INFO - Đang crawl trang 2...
+2025-09-09 10:40:59,749 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-09 10:40:59,749 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-09 10:40:59,749 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-09 10:41:01,751 - INFO - Đang crawl trang 3...
+2025-09-09 10:41:25,873 - INFO - Đã trích xuất 8 bài viết từ trang 3
+2025-09-09 10:41:25,874 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_3.json
+2025-09-09 10:41:25,874 - INFO - Đã hoàn thành trang 3 với 8 bài viết
+2025-09-09 10:41:27,875 - INFO - Đang crawl trang 4...
+2025-09-09 10:41:55,802 - INFO - Đã trích xuất 8 bài viết từ trang 4
+2025-09-09 10:41:55,803 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_4.json
+2025-09-09 10:41:55,803 - INFO - Đã hoàn thành trang 4 với 8 bài viết
+2025-09-09 10:41:57,804 - INFO - Đang crawl trang 5...
+2025-09-09 10:42:18,559 - INFO - Đã trích xuất 8 bài viết từ trang 5
+2025-09-09 10:42:18,559 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_5.json
+2025-09-09 10:42:18,559 - INFO - Đã hoàn thành trang 5 với 8 bài viết
+2025-09-09 10:42:20,561 - INFO - Đang crawl trang 6...
+2025-09-09 10:42:29,908 - INFO - Đã trích xuất 8 bài viết từ trang 6
+2025-09-09 10:42:29,908 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_6.json
+2025-09-09 10:42:29,908 - INFO - Đã hoàn thành trang 6 với 8 bài viết
+2025-09-09 10:42:31,910 - INFO - Đang crawl trang 7...
+2025-09-09 10:42:44,816 - INFO - Đã trích xuất 8 bài viết từ trang 7
+2025-09-09 10:42:44,816 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_7.json
+2025-09-09 10:42:44,816 - INFO - Đã hoàn thành trang 7 với 8 bài viết
+2025-09-09 10:42:46,818 - INFO - Đang crawl trang 8...
+2025-09-09 10:43:07,268 - INFO - Đã trích xuất 8 bài viết từ trang 8
+2025-09-09 10:43:07,269 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_8.json
+2025-09-09 10:43:07,269 - INFO - Đã hoàn thành trang 8 với 8 bài viết
+2025-09-09 10:43:09,270 - INFO - Đang crawl trang 9...
+2025-09-09 10:43:19,282 - INFO - Đã trích xuất 8 bài viết từ trang 9
+2025-09-09 10:43:19,282 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_9.json
+2025-09-09 10:43:19,282 - INFO - Đã hoàn thành trang 9 với 8 bài viết
+2025-09-09 10:43:21,284 - INFO - Đang crawl trang 10...
+2025-09-09 10:44:40,846 - INFO - Đã trích xuất 8 bài viết từ trang 10
+2025-09-09 10:44:40,846 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_10.json
+2025-09-09 10:44:40,846 - INFO - Đã hoàn thành trang 10 với 8 bài viết
+2025-09-09 10:44:42,848 - INFO - Đang crawl trang 11...
+2025-09-09 10:44:53,505 - INFO - Đã trích xuất 8 bài viết từ trang 11
+2025-09-09 10:44:53,507 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_11.json
+2025-09-09 10:44:53,507 - INFO - Đã hoàn thành trang 11 với 8 bài viết
+2025-09-09 10:44:55,508 - INFO - Đang crawl trang 12...
+2025-09-09 10:44:57,282 - INFO - Đã trích xuất 8 bài viết từ trang 12
+2025-09-09 10:44:57,282 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_12.json
+2025-09-09 10:44:57,282 - INFO - Đã hoàn thành trang 12 với 8 bài viết
+2025-09-09 10:44:59,285 - INFO - Đang crawl trang 13...
+2025-09-09 10:45:13,289 - INFO - Đã trích xuất 8 bài viết từ trang 13
+2025-09-09 10:45:13,290 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_13.json
+2025-09-09 10:45:13,290 - INFO - Đã hoàn thành trang 13 với 8 bài viết
+2025-09-09 10:45:15,291 - INFO - Đang crawl trang 14...
+2025-09-09 10:45:28,619 - INFO - Đã trích xuất 8 bài viết từ trang 14
+2025-09-09 10:45:28,619 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_14.json
+2025-09-09 10:45:28,620 - INFO - Đã hoàn thành trang 14 với 8 bài viết
+2025-09-09 10:45:30,622 - INFO - Đang crawl trang 15...
+2025-09-09 10:45:35,824 - INFO - Đã trích xuất 8 bài viết từ trang 15
+2025-09-09 10:45:35,824 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_15.json
+2025-09-09 10:45:35,825 - INFO - Đã hoàn thành trang 15 với 8 bài viết
+2025-09-09 10:45:37,827 - INFO - Đang crawl trang 16...
+2025-09-09 10:45:42,952 - INFO - Đã trích xuất 8 bài viết từ trang 16
+2025-09-09 10:45:42,952 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_16.json
+2025-09-09 10:45:42,952 - INFO - Đã hoàn thành trang 16 với 8 bài viết
+2025-09-09 10:45:44,954 - INFO - Đang crawl trang 17...
+2025-09-09 10:46:08,709 - ERROR - Lỗi khi trích xuất dữ liệu từ trang 17: Message: 
+Stacktrace:
+#0 0x5c0d75a4f94a <unknown>
+#1 0x5c0d754c48a0 <unknown>
+#2 0x5c0d75516540 <unknown>
+#3 0x5c0d75516731 <unknown>
+#4 0x5c0d75564824 <unknown>
+#5 0x5c0d7553c05d <unknown>
+#6 0x5c0d75561c23 <unknown>
+#7 0x5c0d7553be03 <unknown>
+#8 0x5c0d75508968 <unknown>
+#9 0x5c0d755095e1 <unknown>
+#10 0x5c0d75a13548 <unknown>
+#11 0x5c0d75a17272 <unknown>
+#12 0x5c0d759fa313 <unknown>
+#13 0x5c0d75a17dc5 <unknown>
+#14 0x5c0d759df49f <unknown>
+#15 0x5c0d75a3c158 <unknown>
+#16 0x5c0d75a3c332 <unknown>
+#17 0x5c0d75a4ea53 <unknown>
+#18 0x76bed7294ac3 <unknown>
+
+2025-09-09 10:46:08,709 - WARNING - Trang 17 không có dữ liệu, dừng crawl
+2025-09-09 10:46:08,710 - INFO - Đã lưu tổng cộng 128 bài viết vào ../dataset/link/cmc_corporation/cmc_all_articles.json
+2025-09-09 10:46:08,710 - INFO - Hoàn thành crawl! Tổng cộng 128 bài viết từ 16 trang
+2025-09-09 10:46:08,845 - INFO - Đã đóng WebDriver
+2025-09-09 11:03:08,737 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 11:03:18,036 - ERROR - Lỗi không mong đợi: 'CMCCrawler' object has no attribute 'crawl_pages_range'
+2025-09-09 11:03:18,092 - INFO - Đã đóng WebDriver
+2025-09-09 11:04:35,376 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 11:04:38,273 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 65
+2025-09-09 11:04:38,274 - ERROR - Lỗi không mong đợi: 'CMCCrawler' object has no attribute 'switch_to_vietnamese'
+2025-09-09 11:04:38,329 - INFO - Đã đóng WebDriver
+2025-09-09 11:05:41,262 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 11:05:53,934 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 65
+2025-09-09 11:05:53,934 - ERROR - Lỗi không mong đợi: 'CMCCrawler' object has no attribute 'switch_to_vietnamese'
+2025-09-09 11:05:53,992 - INFO - Đã đóng WebDriver
+2025-09-09 11:05:56,716 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 11:05:57,571 - INFO - Bắt đầu crawl dữ liệu từ CMC Corporation
+2025-09-09 11:05:57,571 - INFO - Đang crawl trang 1...
+2025-09-09 11:06:42,532 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-09 11:06:42,533 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-09 11:06:42,533 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-09 11:06:44,535 - INFO - Đang crawl trang 2...
+2025-09-09 11:07:20,048 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-09 11:07:20,049 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-09 11:07:20,049 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-09 11:07:22,051 - INFO - Đang crawl trang 3...
+2025-09-09 11:07:39,879 - INFO - Crawl bị dừng bởi người dùng
+2025-09-09 11:07:39,881 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/178a86b3862471fda877429413091e05
+2025-09-09 11:07:39,881 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e9c8ad00d90>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/178a86b3862471fda877429413091e05
+2025-09-09 11:07:39,881 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e9c8ad00c70>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/178a86b3862471fda877429413091e05
+2025-09-09 11:07:39,882 - INFO - Đã đóng WebDriver
+2025-09-09 11:07:42,665 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 11:07:44,123 - INFO - Bắt đầu crawl dữ liệu từ CMC Corporation
+2025-09-09 11:07:44,123 - INFO - Đang crawl trang 1...
+2025-09-09 11:08:08,442 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-09 11:08:08,443 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-09 11:08:08,443 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-09 11:08:10,444 - INFO - Đang crawl trang 2...
+2025-09-09 11:08:40,473 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-09 11:08:40,473 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-09 11:08:40,473 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-09 11:08:42,475 - INFO - Đang crawl trang 3...
+2025-09-09 11:09:09,258 - INFO - Đã trích xuất 8 bài viết từ trang 3
+2025-09-09 11:09:09,258 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_3.json
+2025-09-09 11:09:09,258 - INFO - Đã hoàn thành trang 3 với 8 bài viết
+2025-09-09 11:09:11,260 - INFO - Đang crawl trang 4...
+2025-09-09 11:09:29,062 - INFO - Đã trích xuất 8 bài viết từ trang 4
+2025-09-09 11:09:29,063 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_4.json
+2025-09-09 11:09:29,063 - INFO - Đã hoàn thành trang 4 với 8 bài viết
+2025-09-09 11:09:31,064 - INFO - Đang crawl trang 5...
+2025-09-09 11:09:50,753 - INFO - Đã trích xuất 8 bài viết từ trang 5
+2025-09-09 11:09:50,754 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_5.json
+2025-09-09 11:09:50,754 - INFO - Đã hoàn thành trang 5 với 8 bài viết
+2025-09-09 11:09:52,755 - INFO - Đang crawl trang 6...
+2025-09-09 11:10:00,168 - INFO - Đã trích xuất 8 bài viết từ trang 6
+2025-09-09 11:10:00,168 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_6.json
+2025-09-09 11:10:00,168 - INFO - Đã hoàn thành trang 6 với 8 bài viết
+2025-09-09 11:10:02,170 - INFO - Đang crawl trang 7...
+2025-09-09 11:10:08,370 - INFO - Đã trích xuất 8 bài viết từ trang 7
+2025-09-09 11:10:08,371 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_7.json
+2025-09-09 11:10:08,371 - INFO - Đã hoàn thành trang 7 với 8 bài viết
+2025-09-09 11:10:10,373 - INFO - Đang crawl trang 8...
+2025-09-09 11:10:30,453 - INFO - Đã trích xuất 8 bài viết từ trang 8
+2025-09-09 11:10:30,453 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_8.json
+2025-09-09 11:10:30,453 - INFO - Đã hoàn thành trang 8 với 8 bài viết
+2025-09-09 11:10:32,454 - INFO - Đang crawl trang 9...
+2025-09-09 11:10:39,716 - INFO - Đã trích xuất 8 bài viết từ trang 9
+2025-09-09 11:10:39,716 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_9.json
+2025-09-09 11:10:39,716 - INFO - Đã hoàn thành trang 9 với 8 bài viết
+2025-09-09 11:10:41,717 - INFO - Đang crawl trang 10...
+2025-09-09 11:10:55,742 - INFO - Đã trích xuất 8 bài viết từ trang 10
+2025-09-09 11:10:55,742 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_10.json
+2025-09-09 11:10:55,742 - INFO - Đã hoàn thành trang 10 với 8 bài viết
+2025-09-09 11:10:57,744 - INFO - Đang crawl trang 11...
+2025-09-09 11:11:08,254 - INFO - Đã trích xuất 8 bài viết từ trang 11
+2025-09-09 11:11:08,254 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_11.json
+2025-09-09 11:11:08,254 - INFO - Đã hoàn thành trang 11 với 8 bài viết
+2025-09-09 11:11:10,256 - INFO - Đang crawl trang 12...
+2025-09-09 11:11:11,768 - INFO - Đã trích xuất 8 bài viết từ trang 12
+2025-09-09 11:11:11,769 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_12.json
+2025-09-09 11:11:11,769 - INFO - Đã hoàn thành trang 12 với 8 bài viết
+2025-09-09 11:11:13,771 - INFO - Đang crawl trang 13...
+2025-09-09 11:11:27,329 - INFO - Đã trích xuất 8 bài viết từ trang 13
+2025-09-09 11:11:27,329 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_13.json
+2025-09-09 11:11:27,329 - INFO - Đã hoàn thành trang 13 với 8 bài viết
+2025-09-09 11:11:29,331 - INFO - Đang crawl trang 14...
+2025-09-09 11:11:37,136 - INFO - Đã trích xuất 8 bài viết từ trang 14
+2025-09-09 11:11:37,137 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_14.json
+2025-09-09 11:11:37,137 - INFO - Đã hoàn thành trang 14 với 8 bài viết
+2025-09-09 11:11:39,139 - INFO - Đang crawl trang 15...
+2025-09-09 11:11:40,758 - INFO - Đã trích xuất 8 bài viết từ trang 15
+2025-09-09 11:11:40,758 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_15.json
+2025-09-09 11:11:40,758 - INFO - Đã hoàn thành trang 15 với 8 bài viết
+2025-09-09 11:11:42,760 - INFO - Đang crawl trang 16...
+2025-09-09 11:11:44,592 - INFO - Đã trích xuất 8 bài viết từ trang 16
+2025-09-09 11:11:44,593 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_16.json
+2025-09-09 11:11:44,593 - INFO - Đã hoàn thành trang 16 với 8 bài viết
+2025-09-09 11:11:46,594 - INFO - Đang crawl trang 17...
+2025-09-09 11:11:47,800 - INFO - Đã trích xuất 8 bài viết từ trang 17
+2025-09-09 11:11:47,801 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_17.json
+2025-09-09 11:11:47,801 - INFO - Đã hoàn thành trang 17 với 8 bài viết
+2025-09-09 11:11:49,802 - INFO - Đang crawl trang 18...
+2025-09-09 11:11:57,343 - INFO - Đã trích xuất 8 bài viết từ trang 18
+2025-09-09 11:11:57,344 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_18.json
+2025-09-09 11:11:57,344 - INFO - Đã hoàn thành trang 18 với 8 bài viết
+2025-09-09 11:11:59,345 - INFO - Đang crawl trang 19...
+2025-09-09 11:12:02,161 - INFO - Đã trích xuất 8 bài viết từ trang 19
+2025-09-09 11:12:02,161 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_19.json
+2025-09-09 11:12:02,161 - INFO - Đã hoàn thành trang 19 với 8 bài viết
+2025-09-09 11:12:04,163 - INFO - Đang crawl trang 20...
+2025-09-09 11:12:07,898 - INFO - Đã trích xuất 8 bài viết từ trang 20
+2025-09-09 11:12:07,898 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_20.json
+2025-09-09 11:12:07,899 - INFO - Đã hoàn thành trang 20 với 8 bài viết
+2025-09-09 11:12:09,901 - INFO - Đang crawl trang 21...
+2025-09-09 11:12:11,476 - INFO - Đã trích xuất 8 bài viết từ trang 21
+2025-09-09 11:12:11,476 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_21.json
+2025-09-09 11:12:11,477 - INFO - Đã hoàn thành trang 21 với 8 bài viết
+2025-09-09 11:12:13,479 - INFO - Đang crawl trang 22...
+2025-09-09 11:12:16,445 - INFO - Đã trích xuất 8 bài viết từ trang 22
+2025-09-09 11:12:16,446 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_22.json
+2025-09-09 11:12:16,446 - INFO - Đã hoàn thành trang 22 với 8 bài viết
+2025-09-09 11:12:18,448 - INFO - Đang crawl trang 23...
+2025-09-09 11:12:19,418 - INFO - Đã trích xuất 8 bài viết từ trang 23
+2025-09-09 11:12:19,418 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_23.json
+2025-09-09 11:12:19,418 - INFO - Đã hoàn thành trang 23 với 8 bài viết
+2025-09-09 11:12:21,420 - INFO - Đang crawl trang 24...
+2025-09-09 11:12:27,476 - INFO - Đã trích xuất 8 bài viết từ trang 24
+2025-09-09 11:12:27,476 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_24.json
+2025-09-09 11:12:27,476 - INFO - Đã hoàn thành trang 24 với 8 bài viết
+2025-09-09 11:12:29,477 - INFO - Đang crawl trang 25...
+2025-09-09 11:12:32,795 - INFO - Đã trích xuất 8 bài viết từ trang 25
+2025-09-09 11:12:32,795 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_25.json
+2025-09-09 11:12:32,795 - INFO - Đã hoàn thành trang 25 với 8 bài viết
+2025-09-09 11:12:34,798 - INFO - Đang crawl trang 26...
+2025-09-09 11:12:51,228 - INFO - Đã trích xuất 8 bài viết từ trang 26
+2025-09-09 11:12:51,229 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_26.json
+2025-09-09 11:12:51,229 - INFO - Đã hoàn thành trang 26 với 8 bài viết
+2025-09-09 11:12:53,230 - INFO - Đang crawl trang 27...
+2025-09-09 11:12:55,551 - INFO - Đã trích xuất 8 bài viết từ trang 27
+2025-09-09 11:12:55,551 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_27.json
+2025-09-09 11:12:55,551 - INFO - Đã hoàn thành trang 27 với 8 bài viết
+2025-09-09 11:12:57,553 - INFO - Đang crawl trang 28...
+2025-09-09 11:12:59,300 - INFO - Đã trích xuất 8 bài viết từ trang 28
+2025-09-09 11:12:59,300 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_28.json
+2025-09-09 11:12:59,301 - INFO - Đã hoàn thành trang 28 với 8 bài viết
+2025-09-09 11:13:01,302 - INFO - Đang crawl trang 29...
+2025-09-09 11:13:08,298 - INFO - Đã trích xuất 8 bài viết từ trang 29
+2025-09-09 11:13:08,298 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_29.json
+2025-09-09 11:13:08,298 - INFO - Đã hoàn thành trang 29 với 8 bài viết
+2025-09-09 11:13:10,300 - INFO - Đang crawl trang 30...
+2025-09-09 11:13:11,983 - INFO - Đã trích xuất 8 bài viết từ trang 30
+2025-09-09 11:13:11,983 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_30.json
+2025-09-09 11:13:11,983 - INFO - Đã hoàn thành trang 30 với 8 bài viết
+2025-09-09 11:13:13,985 - INFO - Đang crawl trang 31...
+2025-09-09 11:13:22,527 - INFO - Đã trích xuất 8 bài viết từ trang 31
+2025-09-09 11:13:22,527 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_31.json
+2025-09-09 11:13:22,527 - INFO - Đã hoàn thành trang 31 với 8 bài viết
+2025-09-09 11:13:24,529 - INFO - Đang crawl trang 32...
+2025-09-09 11:13:26,334 - INFO - Đã trích xuất 8 bài viết từ trang 32
+2025-09-09 11:13:26,334 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_32.json
+2025-09-09 11:13:26,334 - INFO - Đã hoàn thành trang 32 với 8 bài viết
+2025-09-09 11:13:28,335 - INFO - Đang crawl trang 33...
+2025-09-09 11:13:31,622 - INFO - Đã trích xuất 8 bài viết từ trang 33
+2025-09-09 11:13:31,623 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_33.json
+2025-09-09 11:13:31,623 - INFO - Đã hoàn thành trang 33 với 8 bài viết
+2025-09-09 11:13:33,624 - INFO - Đang crawl trang 34...
+2025-09-09 11:13:36,767 - INFO - Đã trích xuất 8 bài viết từ trang 34
+2025-09-09 11:13:36,767 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_34.json
+2025-09-09 11:13:36,768 - INFO - Đã hoàn thành trang 34 với 8 bài viết
+2025-09-09 11:13:38,769 - INFO - Đang crawl trang 35...
+2025-09-09 11:13:41,335 - INFO - Đã trích xuất 8 bài viết từ trang 35
+2025-09-09 11:13:41,335 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_35.json
+2025-09-09 11:13:41,335 - INFO - Đã hoàn thành trang 35 với 8 bài viết
+2025-09-09 11:13:43,337 - INFO - Đang crawl trang 36...
+2025-09-09 11:13:54,522 - INFO - Đã trích xuất 8 bài viết từ trang 36
+2025-09-09 11:13:54,522 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_36.json
+2025-09-09 11:13:54,523 - INFO - Đã hoàn thành trang 36 với 8 bài viết
+2025-09-09 11:13:56,524 - INFO - Đang crawl trang 37...
+2025-09-09 11:14:21,960 - INFO - Đã trích xuất 8 bài viết từ trang 37
+2025-09-09 11:14:21,960 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_37.json
+2025-09-09 11:14:21,960 - INFO - Đã hoàn thành trang 37 với 8 bài viết
+2025-09-09 11:14:23,962 - INFO - Đang crawl trang 38...
+2025-09-09 11:14:32,716 - INFO - Đã trích xuất 8 bài viết từ trang 38
+2025-09-09 11:14:32,716 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_38.json
+2025-09-09 11:14:32,716 - INFO - Đã hoàn thành trang 38 với 8 bài viết
+2025-09-09 11:14:34,717 - INFO - Đang crawl trang 39...
+2025-09-09 11:14:43,452 - INFO - Đã trích xuất 8 bài viết từ trang 39
+2025-09-09 11:14:43,452 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_39.json
+2025-09-09 11:14:43,452 - INFO - Đã hoàn thành trang 39 với 8 bài viết
+2025-09-09 11:14:45,454 - INFO - Đang crawl trang 40...
+2025-09-09 11:15:17,567 - INFO - Đã trích xuất 8 bài viết từ trang 40
+2025-09-09 11:15:17,568 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_40.json
+2025-09-09 11:15:17,568 - INFO - Đã hoàn thành trang 40 với 8 bài viết
+2025-09-09 11:15:19,569 - INFO - Đang crawl trang 41...
+2025-09-09 11:15:25,800 - INFO - Đã trích xuất 8 bài viết từ trang 41
+2025-09-09 11:15:25,801 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_41.json
+2025-09-09 11:15:25,801 - INFO - Đã hoàn thành trang 41 với 8 bài viết
+2025-09-09 11:15:27,803 - INFO - Đang crawl trang 42...
+2025-09-09 11:15:31,650 - INFO - Đã trích xuất 8 bài viết từ trang 42
+2025-09-09 11:15:31,651 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_42.json
+2025-09-09 11:15:31,651 - INFO - Đã hoàn thành trang 42 với 8 bài viết
+2025-09-09 11:15:33,652 - INFO - Đang crawl trang 43...
+2025-09-09 11:15:36,571 - INFO - Đã trích xuất 8 bài viết từ trang 43
+2025-09-09 11:15:36,571 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_43.json
+2025-09-09 11:15:36,571 - INFO - Đã hoàn thành trang 43 với 8 bài viết
+2025-09-09 11:15:38,574 - INFO - Đang crawl trang 44...
+2025-09-09 11:16:01,358 - ERROR - Lỗi khi trích xuất dữ liệu từ trang 44: Message: 
+Stacktrace:
+#0 0x614617d5194a <unknown>
+#1 0x6146177c68a0 <unknown>
+#2 0x614617818540 <unknown>
+#3 0x614617818731 <unknown>
+#4 0x614617866824 <unknown>
+#5 0x61461783e05d <unknown>
+#6 0x614617863c23 <unknown>
+#7 0x61461783de03 <unknown>
+#8 0x61461780a968 <unknown>
+#9 0x61461780b5e1 <unknown>
+#10 0x614617d15548 <unknown>
+#11 0x614617d19272 <unknown>
+#12 0x614617cfc313 <unknown>
+#13 0x614617d19dc5 <unknown>
+#14 0x614617ce149f <unknown>
+#15 0x614617d3e158 <unknown>
+#16 0x614617d3e332 <unknown>
+#17 0x614617d50a53 <unknown>
+#18 0x744e79a94ac3 <unknown>
+
+2025-09-09 11:16:01,358 - WARNING - Trang 44 không có dữ liệu, dừng crawl
+2025-09-09 11:16:01,360 - INFO - Đã lưu tổng cộng 344 bài viết vào ../dataset/link/cmc_corporation/cmc_all_articles.json
+2025-09-09 11:16:01,360 - INFO - Hoàn thành crawl! Tổng cộng 344 bài viết từ 43 trang
+2025-09-09 11:16:01,535 - INFO - Đã đóng WebDriver
+2025-09-09 11:32:18,698 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 65
+2025-09-09 11:32:19,785 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 11:32:19,785 - INFO - Đang crawl trang 1...
+2025-09-09 11:32:21,075 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-09 11:32:21,076 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-09 11:32:21,076 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-09 11:32:25,332 - INFO - Đang crawl trang 2...
+2025-09-09 11:32:25,747 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-09 11:32:25,747 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-09 11:32:25,747 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-09 11:32:29,540 - INFO - Đang crawl trang 3...
+2025-09-09 11:32:30,154 - INFO - Đã trích xuất 8 bài viết từ trang 3
+2025-09-09 11:32:30,154 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_3.json
+2025-09-09 11:32:30,154 - INFO - Đã hoàn thành trang 3 với 8 bài viết
+2025-09-09 11:32:32,399 - INFO - Đang crawl trang 4...
+2025-09-09 11:32:33,240 - INFO - Đã trích xuất 8 bài viết từ trang 4
+2025-09-09 11:32:33,241 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_4.json
+2025-09-09 11:32:33,241 - INFO - Đã hoàn thành trang 4 với 8 bài viết
+2025-09-09 11:32:36,270 - INFO - Đang crawl trang 5...
+2025-09-09 11:32:36,785 - INFO - Đã trích xuất 8 bài viết từ trang 5
+2025-09-09 11:32:36,786 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_5.json
+2025-09-09 11:32:36,786 - INFO - Đã hoàn thành trang 5 với 8 bài viết
+2025-09-09 11:32:41,371 - INFO - Đang crawl trang 6...
+2025-09-09 11:32:41,912 - INFO - Đã trích xuất 8 bài viết từ trang 6
+2025-09-09 11:32:41,912 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_6.json
+2025-09-09 11:32:41,912 - INFO - Đã hoàn thành trang 6 với 8 bài viết
+2025-09-09 11:32:46,158 - INFO - Đang crawl trang 7...
+2025-09-09 11:32:47,215 - INFO - Đã trích xuất 8 bài viết từ trang 7
+2025-09-09 11:32:47,216 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_7.json
+2025-09-09 11:32:47,216 - INFO - Đã hoàn thành trang 7 với 8 bài viết
+2025-09-09 11:32:50,459 - INFO - Đang crawl trang 8...
+2025-09-09 11:32:51,605 - INFO - Đã trích xuất 8 bài viết từ trang 8
+2025-09-09 11:32:51,606 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_8.json
+2025-09-09 11:32:51,606 - INFO - Đã hoàn thành trang 8 với 8 bài viết
+2025-09-09 11:32:54,755 - INFO - Đang crawl trang 9...
+2025-09-09 11:32:55,929 - INFO - Đã trích xuất 8 bài viết từ trang 9
+2025-09-09 11:32:55,930 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_9.json
+2025-09-09 11:32:55,930 - INFO - Đã hoàn thành trang 9 với 8 bài viết
+2025-09-09 11:32:59,556 - INFO - Đang crawl trang 10...
+2025-09-09 11:33:00,402 - INFO - Đã trích xuất 8 bài viết từ trang 10
+2025-09-09 11:33:00,403 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_10.json
+2025-09-09 11:33:00,403 - INFO - Đã hoàn thành trang 10 với 8 bài viết
+2025-09-09 11:33:02,539 - INFO - Đang crawl trang 11...
+2025-09-09 11:33:03,302 - INFO - Đã trích xuất 8 bài viết từ trang 11
+2025-09-09 11:33:03,303 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_11.json
+2025-09-09 11:33:03,303 - INFO - Đã hoàn thành trang 11 với 8 bài viết
+2025-09-09 11:33:06,493 - INFO - Đang crawl trang 12...
+2025-09-09 11:33:07,188 - INFO - Đã trích xuất 8 bài viết từ trang 12
+2025-09-09 11:33:07,188 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_12.json
+2025-09-09 11:33:07,189 - INFO - Đã hoàn thành trang 12 với 8 bài viết
+2025-09-09 11:33:10,515 - INFO - Đang crawl trang 13...
+2025-09-09 11:33:11,228 - INFO - Đã trích xuất 8 bài viết từ trang 13
+2025-09-09 11:33:11,228 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_13.json
+2025-09-09 11:33:11,228 - INFO - Đã hoàn thành trang 13 với 8 bài viết
+2025-09-09 11:33:13,348 - INFO - Đang crawl trang 14...
+2025-09-09 11:33:13,930 - INFO - Đã trích xuất 8 bài viết từ trang 14
+2025-09-09 11:33:13,931 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_14.json
+2025-09-09 11:33:13,931 - INFO - Đã hoàn thành trang 14 với 8 bài viết
+2025-09-09 11:33:16,894 - INFO - Đang crawl trang 15...
+2025-09-09 11:33:18,045 - INFO - Đã trích xuất 8 bài viết từ trang 15
+2025-09-09 11:33:18,045 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_15.json
+2025-09-09 11:33:18,045 - INFO - Đã hoàn thành trang 15 với 8 bài viết
+2025-09-09 11:33:21,010 - INFO - Đang crawl trang 16...
+2025-09-09 11:33:25,697 - INFO - Đã trích xuất 8 bài viết từ trang 16
+2025-09-09 11:33:25,698 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_16.json
+2025-09-09 11:33:25,698 - INFO - Đã hoàn thành trang 16 với 8 bài viết
+2025-09-09 11:33:28,709 - INFO - Đang crawl trang 17...
+2025-09-09 11:33:29,308 - INFO - Đã trích xuất 8 bài viết từ trang 17
+2025-09-09 11:33:29,308 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_17.json
+2025-09-09 11:33:29,308 - INFO - Đã hoàn thành trang 17 với 8 bài viết
+2025-09-09 11:33:33,046 - INFO - Đang crawl trang 18...
+2025-09-09 11:33:33,836 - INFO - Đã trích xuất 8 bài viết từ trang 18
+2025-09-09 11:33:33,836 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_18.json
+2025-09-09 11:33:33,836 - INFO - Đã hoàn thành trang 18 với 8 bài viết
+2025-09-09 11:33:37,356 - INFO - Đang crawl trang 19...
+2025-09-09 11:33:38,075 - INFO - Đã trích xuất 8 bài viết từ trang 19
+2025-09-09 11:33:38,076 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_19.json
+2025-09-09 11:33:38,076 - INFO - Đã hoàn thành trang 19 với 8 bài viết
+2025-09-09 11:33:43,050 - INFO - Đang crawl trang 20...
+2025-09-09 11:33:43,754 - INFO - Đã trích xuất 8 bài viết từ trang 20
+2025-09-09 11:33:43,754 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_20.json
+2025-09-09 11:33:43,754 - INFO - Đã hoàn thành trang 20 với 8 bài viết
+2025-09-09 11:33:46,617 - INFO - Đang crawl trang 21...
+2025-09-09 11:33:46,617 - INFO - Khởi động lại driver sau 20 trang...
+2025-09-09 11:33:46,617 - INFO - Đang khởi động lại WebDriver...
+2025-09-09 11:33:46,679 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7271565370a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c461ac4235387b49151278aebe5d1dc3
+2025-09-09 11:33:46,680 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x727156537280>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c461ac4235387b49151278aebe5d1dc3
+2025-09-09 11:33:46,680 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x727156537400>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c461ac4235387b49151278aebe5d1dc3
+2025-09-09 11:33:47,769 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 11:33:49,170 - INFO - Đã trích xuất 8 bài viết từ trang 21
+2025-09-09 11:33:49,170 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_21.json
+2025-09-09 11:33:49,170 - INFO - Đã hoàn thành trang 21 với 8 bài viết
+2025-09-09 11:33:51,250 - INFO - Đang crawl trang 22...
+2025-09-09 11:33:51,664 - INFO - Đã trích xuất 8 bài viết từ trang 22
+2025-09-09 11:33:51,664 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_22.json
+2025-09-09 11:33:51,664 - INFO - Đã hoàn thành trang 22 với 8 bài viết
+2025-09-09 11:33:54,953 - INFO - Đang crawl trang 23...
+2025-09-09 11:33:55,858 - INFO - Đã trích xuất 8 bài viết từ trang 23
+2025-09-09 11:33:55,858 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_23.json
+2025-09-09 11:33:55,858 - INFO - Đã hoàn thành trang 23 với 8 bài viết
+2025-09-09 11:33:58,899 - INFO - Đang crawl trang 24...
+2025-09-09 11:33:59,491 - INFO - Đã trích xuất 8 bài viết từ trang 24
+2025-09-09 11:33:59,491 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_24.json
+2025-09-09 11:33:59,491 - INFO - Đã hoàn thành trang 24 với 8 bài viết
+2025-09-09 11:34:03,147 - INFO - Đang crawl trang 25...
+2025-09-09 11:34:03,719 - INFO - Đã trích xuất 8 bài viết từ trang 25
+2025-09-09 11:34:03,719 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_25.json
+2025-09-09 11:34:03,719 - INFO - Đã hoàn thành trang 25 với 8 bài viết
+2025-09-09 11:34:07,123 - INFO - Đang crawl trang 26...
+2025-09-09 11:34:07,968 - INFO - Đã trích xuất 8 bài viết từ trang 26
+2025-09-09 11:34:07,969 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_26.json
+2025-09-09 11:34:07,969 - INFO - Đã hoàn thành trang 26 với 8 bài viết
+2025-09-09 11:34:11,599 - INFO - Đang crawl trang 27...
+2025-09-09 11:34:12,128 - INFO - Đã trích xuất 8 bài viết từ trang 27
+2025-09-09 11:34:12,128 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_27.json
+2025-09-09 11:34:12,128 - INFO - Đã hoàn thành trang 27 với 8 bài viết
+2025-09-09 11:34:16,326 - INFO - Đang crawl trang 28...
+2025-09-09 11:34:16,803 - INFO - Đã trích xuất 8 bài viết từ trang 28
+2025-09-09 11:34:16,803 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_28.json
+2025-09-09 11:34:16,803 - INFO - Đã hoàn thành trang 28 với 8 bài viết
+2025-09-09 11:34:20,513 - INFO - Đang crawl trang 29...
+2025-09-09 11:34:21,143 - INFO - Đã trích xuất 8 bài viết từ trang 29
+2025-09-09 11:34:21,143 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_29.json
+2025-09-09 11:34:21,143 - INFO - Đã hoàn thành trang 29 với 8 bài viết
+2025-09-09 11:34:24,355 - INFO - Đang crawl trang 30...
+2025-09-09 11:34:24,778 - INFO - Đã trích xuất 8 bài viết từ trang 30
+2025-09-09 11:34:24,778 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_30.json
+2025-09-09 11:34:24,778 - INFO - Đã hoàn thành trang 30 với 8 bài viết
+2025-09-09 11:34:29,540 - INFO - Đang crawl trang 31...
+2025-09-09 11:34:30,361 - INFO - Đã trích xuất 8 bài viết từ trang 31
+2025-09-09 11:34:30,361 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_31.json
+2025-09-09 11:34:30,361 - INFO - Đã hoàn thành trang 31 với 8 bài viết
+2025-09-09 11:34:33,969 - INFO - Đang crawl trang 32...
+2025-09-09 11:34:34,752 - INFO - Đã trích xuất 8 bài viết từ trang 32
+2025-09-09 11:34:34,752 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_32.json
+2025-09-09 11:34:34,752 - INFO - Đã hoàn thành trang 32 với 8 bài viết
+2025-09-09 11:34:37,162 - INFO - Đang crawl trang 33...
+2025-09-09 11:34:37,823 - INFO - Đã trích xuất 8 bài viết từ trang 33
+2025-09-09 11:34:37,823 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_33.json
+2025-09-09 11:34:37,823 - INFO - Đã hoàn thành trang 33 với 8 bài viết
+2025-09-09 11:34:40,905 - INFO - Đang crawl trang 34...
+2025-09-09 11:34:41,536 - INFO - Đã trích xuất 8 bài viết từ trang 34
+2025-09-09 11:34:41,536 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_34.json
+2025-09-09 11:34:41,536 - INFO - Đã hoàn thành trang 34 với 8 bài viết
+2025-09-09 11:34:45,810 - INFO - Đang crawl trang 35...
+2025-09-09 11:34:46,753 - INFO - Đã trích xuất 8 bài viết từ trang 35
+2025-09-09 11:34:46,753 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_35.json
+2025-09-09 11:34:46,753 - INFO - Đã hoàn thành trang 35 với 8 bài viết
+2025-09-09 11:34:50,649 - INFO - Đang crawl trang 36...
+2025-09-09 11:34:51,375 - INFO - Đã trích xuất 8 bài viết từ trang 36
+2025-09-09 11:34:51,376 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_36.json
+2025-09-09 11:34:51,376 - INFO - Đã hoàn thành trang 36 với 8 bài viết
+2025-09-09 11:34:54,723 - INFO - Đang crawl trang 37...
+2025-09-09 11:34:55,462 - INFO - Đã trích xuất 8 bài viết từ trang 37
+2025-09-09 11:34:55,462 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_37.json
+2025-09-09 11:34:55,462 - INFO - Đã hoàn thành trang 37 với 8 bài viết
+2025-09-09 11:35:00,390 - INFO - Đang crawl trang 38...
+2025-09-09 11:35:01,119 - INFO - Đã trích xuất 8 bài viết từ trang 38
+2025-09-09 11:35:01,120 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_38.json
+2025-09-09 11:35:01,120 - INFO - Đã hoàn thành trang 38 với 8 bài viết
+2025-09-09 11:35:05,584 - INFO - Đang crawl trang 39...
+2025-09-09 11:35:06,930 - INFO - Đã trích xuất 8 bài viết từ trang 39
+2025-09-09 11:35:06,930 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_39.json
+2025-09-09 11:35:06,930 - INFO - Đã hoàn thành trang 39 với 8 bài viết
+2025-09-09 11:35:11,840 - INFO - Đang crawl trang 40...
+2025-09-09 11:35:12,709 - INFO - Đã trích xuất 8 bài viết từ trang 40
+2025-09-09 11:35:12,710 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_40.json
+2025-09-09 11:35:12,710 - INFO - Đã hoàn thành trang 40 với 8 bài viết
+2025-09-09 11:35:16,045 - INFO - Đang crawl trang 41...
+2025-09-09 11:35:16,045 - INFO - Khởi động lại driver sau 20 trang...
+2025-09-09 11:35:16,045 - INFO - Đang khởi động lại WebDriver...
+2025-09-09 11:35:16,109 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x727156d8f940>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1c6fd11875be84274c117875d6491c77
+2025-09-09 11:35:16,110 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x727156d8f6d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1c6fd11875be84274c117875d6491c77
+2025-09-09 11:35:16,110 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x727156d8f5b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1c6fd11875be84274c117875d6491c77
+2025-09-09 11:35:17,199 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 11:35:20,148 - INFO - Đã trích xuất 8 bài viết từ trang 41
+2025-09-09 11:35:20,148 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_41.json
+2025-09-09 11:35:20,148 - INFO - Đã hoàn thành trang 41 với 8 bài viết
+2025-09-09 11:35:23,293 - INFO - Đang crawl trang 42...
+2025-09-09 11:35:26,413 - INFO - Đã trích xuất 8 bài viết từ trang 42
+2025-09-09 11:35:26,413 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_42.json
+2025-09-09 11:35:26,413 - INFO - Đã hoàn thành trang 42 với 8 bài viết
+2025-09-09 11:35:31,120 - INFO - Đang crawl trang 43...
+2025-09-09 11:35:33,219 - INFO - Đã trích xuất 8 bài viết từ trang 43
+2025-09-09 11:35:33,219 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_43.json
+2025-09-09 11:35:33,220 - INFO - Đã hoàn thành trang 43 với 8 bài viết
+2025-09-09 11:35:37,691 - INFO - Đang crawl trang 44...
+2025-09-09 11:35:38,654 - INFO - Đã trích xuất 8 bài viết từ trang 44
+2025-09-09 11:35:38,654 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_44.json
+2025-09-09 11:35:38,654 - INFO - Đã hoàn thành trang 44 với 8 bài viết
+2025-09-09 11:35:42,038 - INFO - Đang crawl trang 45...
+2025-09-09 11:35:43,789 - INFO - Đã trích xuất 8 bài viết từ trang 45
+2025-09-09 11:35:43,789 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_45.json
+2025-09-09 11:35:43,789 - INFO - Đã hoàn thành trang 45 với 8 bài viết
+2025-09-09 11:35:46,540 - INFO - Đang crawl trang 46...
+2025-09-09 11:35:48,601 - INFO - Đã trích xuất 8 bài viết từ trang 46
+2025-09-09 11:35:48,601 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_46.json
+2025-09-09 11:35:48,601 - INFO - Đã hoàn thành trang 46 với 8 bài viết
+2025-09-09 11:35:53,496 - INFO - Đang crawl trang 47...
+2025-09-09 11:35:55,417 - INFO - Đã trích xuất 1 bài viết từ trang 47
+2025-09-09 11:35:55,417 - INFO - Đã lưu 1 bài viết vào ../dataset/link/cmc_corporation/cmc_page_47.json
+2025-09-09 11:35:55,417 - INFO - Đã hoàn thành trang 47 với 1 bài viết
+2025-09-09 11:36:00,386 - INFO - Đang crawl trang 48...
+2025-09-09 11:36:00,952 - WARNING - Trang 48 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:00,952 - WARNING - Trang 48 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:00,952 - INFO - Đang crawl trang 49...
+2025-09-09 11:36:02,499 - WARNING - Trang 49 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:02,499 - WARNING - Trang 49 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:02,499 - INFO - Đang crawl trang 50...
+2025-09-09 11:36:04,108 - WARNING - Trang 50 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:04,109 - WARNING - Trang 50 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:04,109 - INFO - Đang crawl trang 51...
+2025-09-09 11:36:05,961 - WARNING - Trang 51 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:05,961 - WARNING - Trang 51 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:05,961 - INFO - Đang crawl trang 52...
+2025-09-09 11:36:07,616 - WARNING - Trang 52 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:07,616 - WARNING - Trang 52 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:07,616 - INFO - Đang crawl trang 53...
+2025-09-09 11:36:09,115 - WARNING - Trang 53 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:09,115 - WARNING - Trang 53 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:09,115 - INFO - Đang crawl trang 54...
+2025-09-09 11:36:10,687 - WARNING - Trang 54 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:10,687 - WARNING - Trang 54 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:10,687 - INFO - Đang crawl trang 55...
+2025-09-09 11:36:12,937 - WARNING - Trang 55 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:12,937 - WARNING - Trang 55 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:12,937 - INFO - Đang crawl trang 56...
+2025-09-09 11:36:14,572 - WARNING - Trang 56 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:14,572 - WARNING - Trang 56 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:14,573 - INFO - Đang crawl trang 57...
+2025-09-09 11:36:16,264 - WARNING - Trang 57 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:16,264 - WARNING - Trang 57 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:16,264 - INFO - Đang crawl trang 58...
+2025-09-09 11:36:18,162 - WARNING - Trang 58 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:18,162 - WARNING - Trang 58 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:18,162 - INFO - Đang crawl trang 59...
+2025-09-09 11:36:19,719 - WARNING - Trang 59 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:19,720 - WARNING - Trang 59 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:19,720 - INFO - Đang crawl trang 60...
+2025-09-09 11:36:21,260 - WARNING - Trang 60 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:21,260 - WARNING - Trang 60 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:21,260 - INFO - Đang crawl trang 61...
+2025-09-09 11:36:21,260 - INFO - Khởi động lại driver sau 20 trang...
+2025-09-09 11:36:21,261 - INFO - Đang khởi động lại WebDriver...
+2025-09-09 11:36:21,319 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7271565b4b50>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/2ff6fbb27c5240b653d6fecaad6e2466
+2025-09-09 11:36:21,320 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7271565b4c40>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/2ff6fbb27c5240b653d6fecaad6e2466
+2025-09-09 11:36:21,320 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7271565b4cd0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/2ff6fbb27c5240b653d6fecaad6e2466
+2025-09-09 11:36:22,406 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 11:36:26,861 - WARNING - Trang 61 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:26,861 - WARNING - Trang 61 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:26,861 - INFO - Đang crawl trang 62...
+2025-09-09 11:36:28,212 - WARNING - Trang 62 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:28,212 - WARNING - Trang 62 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:28,212 - INFO - Đang crawl trang 63...
+2025-09-09 11:36:29,502 - WARNING - Trang 63 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:29,502 - WARNING - Trang 63 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:29,503 - INFO - Đang crawl trang 64...
+2025-09-09 11:36:30,742 - WARNING - Trang 64 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:30,742 - WARNING - Trang 64 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:30,742 - INFO - Đang crawl trang 65...
+2025-09-09 11:36:30,974 - WARNING - Trang 65 không có nội dung hoặc đã hết dữ liệu
+2025-09-09 11:36:30,975 - WARNING - Trang 65 không tồn tại hoặc không có dữ liệu, bỏ qua
+2025-09-09 11:36:30,977 - INFO - Đã lưu tổng cộng 369 bài viết vào ../dataset/link/cmc_corporation/cmc_all_articles.json
+2025-09-09 11:36:30,977 - INFO - Hoàn thành crawl! Tổng cộng 369 bài viết từ 65 trang
+2025-09-09 11:36:31,033 - INFO - Đã đóng WebDriver
+2025-09-10 15:49:38,704 - INFO - Đã tạo thư mục: ../dataset/link/cmc_corporation
+2025-09-10 15:49:58,724 - INFO - Bắt đầu crawl dữ liệu từ CMC Corporation
+2025-09-10 15:50:10,933 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-10 15:50:10,933 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Anh...
+2025-09-10 15:50:10,933 - INFO - Đang truy cập trang chủ để chuyển đổi ngôn ngữ...
+2025-09-10 15:50:24,292 - WARNING - Không thể chuyển ngôn ngữ: WebElement.get_attribute() takes 2 positional arguments but 3 were given
+2025-09-10 15:50:24,292 - INFO - Đang crawl trang 1...
+2025-09-10 15:50:26,802 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-10 15:50:26,802 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-10 15:50:26,802 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-10 15:50:31,746 - INFO - Đang crawl trang 2...
+2025-09-10 15:50:33,877 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-10 15:50:33,877 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-10 15:50:33,877 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-10 15:50:37,103 - INFO - Đang crawl trang 3...
+2025-09-10 15:50:39,209 - INFO - Crawl bị dừng bởi người dùng
+2025-09-10 15:50:39,210 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/e3f0aed3cad82709824e1fe82a3c299a
+2025-09-10 15:50:39,210 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x731ff97897e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/e3f0aed3cad82709824e1fe82a3c299a
+2025-09-10 15:50:39,210 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x731ff9789900>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/e3f0aed3cad82709824e1fe82a3c299a
+2025-09-10 15:50:39,210 - INFO - Đã đóng WebDriver
+2025-09-10 15:53:32,352 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 3
+2025-09-10 15:53:33,451 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-10 15:53:33,451 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Anh...
+2025-09-10 15:53:33,451 - INFO - Đang truy cập trang chủ để chuyển đổi ngôn ngữ...
+2025-09-10 15:53:50,891 - WARNING - Không thể chuyển ngôn ngữ: WebElement.get_attribute() takes 2 positional arguments but 3 were given
+2025-09-10 15:53:50,892 - INFO - Đang crawl trang 1...
+2025-09-10 15:53:51,736 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-10 15:53:51,736 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-10 15:53:51,736 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-10 15:53:56,189 - INFO - Đang crawl trang 2...
+2025-09-10 15:53:56,598 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-10 15:53:56,599 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-10 15:53:56,599 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-10 15:54:01,479 - INFO - Đang crawl trang 3...
+2025-09-10 15:54:01,935 - INFO - Đã trích xuất 8 bài viết từ trang 3
+2025-09-10 15:54:01,936 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_3.json
+2025-09-10 15:54:01,936 - INFO - Đã hoàn thành trang 3 với 8 bài viết
+2025-09-10 15:54:04,797 - INFO - Đã lưu tổng cộng 24 bài viết vào ../dataset/link/cmc_corporation/cmc_all_articles.json
+2025-09-10 15:54:04,802 - INFO - Hoàn thành crawl! Tổng cộng 24 bài viết từ 3 trang
+2025-09-10 15:54:04,864 - INFO - Đã đóng WebDriver
+2025-09-10 16:08:40,997 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 2
+2025-09-10 16:08:42,092 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-10 16:08:42,092 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Anh...
+2025-09-10 16:08:42,092 - INFO - Đang truy cập trang chủ để chuyển đổi ngôn ngữ...
+2025-09-10 16:08:55,412 - WARNING - Không thể chuyển ngôn ngữ: WebElement.get_attribute() takes 2 positional arguments but 3 were given
+2025-09-10 16:08:55,412 - INFO - Đang crawl trang 1...
+2025-09-10 16:08:56,139 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-10 16:08:56,140 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-10 16:08:56,140 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-10 16:09:00,415 - INFO - Đang crawl trang 2...
+2025-09-10 16:09:00,854 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-10 16:09:00,854 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-10 16:09:00,854 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-10 16:09:04,006 - INFO - Đã lưu tổng cộng 16 bài viết vào ../dataset/link/cmc_corporation/cmc_all_articles.json
+2025-09-10 16:09:04,006 - INFO - Hoàn thành crawl! Tổng cộng 16 bài viết từ 2 trang
+2025-09-10 16:09:04,065 - INFO - Đã đóng WebDriver
+2025-09-10 16:12:30,664 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 5
+2025-09-10 16:12:31,757 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-10 16:12:31,757 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Anh...
+2025-09-10 16:12:31,757 - INFO - Đang truy cập trang chủ để chuyển đổi ngôn ngữ...
+2025-09-10 16:12:53,258 - WARNING - Không thể chuyển ngôn ngữ: WebElement.get_attribute() takes 2 positional arguments but 3 were given
+2025-09-10 16:12:53,259 - INFO - Đang crawl trang 1...
+2025-09-10 16:12:54,219 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-10 16:12:54,220 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-10 16:12:54,220 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-10 16:12:58,328 - INFO - Đang crawl trang 2...
+2025-09-10 16:12:58,946 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-10 16:12:58,946 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-10 16:12:58,947 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-10 16:13:01,402 - INFO - Đang crawl trang 3...
+2025-09-10 16:13:01,842 - INFO - Đã trích xuất 8 bài viết từ trang 3
+2025-09-10 16:13:01,842 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_3.json
+2025-09-10 16:13:01,842 - INFO - Đã hoàn thành trang 3 với 8 bài viết
+2025-09-10 16:13:06,010 - INFO - Đang crawl trang 4...
+2025-09-10 16:13:07,955 - INFO - Đã trích xuất 8 bài viết từ trang 4
+2025-09-10 16:13:07,956 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_4.json
+2025-09-10 16:13:07,956 - INFO - Đã hoàn thành trang 4 với 8 bài viết
+2025-09-10 16:13:11,732 - INFO - Đang crawl trang 5...
+2025-09-10 16:13:13,689 - INFO - Đã trích xuất 8 bài viết từ trang 5
+2025-09-10 16:13:13,689 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_5.json
+2025-09-10 16:13:13,689 - INFO - Đã hoàn thành trang 5 với 8 bài viết
+2025-09-10 16:13:16,182 - INFO - Đã lưu tổng cộng 40 bài viết vào ../dataset/link/cmc_corporation/cmc_all_articles.json
+2025-09-10 16:13:16,182 - INFO - Hoàn thành crawl! Tổng cộng 40 bài viết từ 5 trang
+2025-09-10 16:13:16,243 - INFO - Đã đóng WebDriver
+2025-09-10 16:25:53,468 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 2
+2025-09-10 16:25:54,563 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-10 16:25:54,563 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Anh...
+2025-09-10 16:25:54,563 - INFO - Đang truy cập trang chủ để chuyển đổi ngôn ngữ...
+2025-09-10 16:26:07,968 - WARNING - Không thể chuyển ngôn ngữ: WebElement.get_attribute() takes 2 positional arguments but 3 were given
+2025-09-10 16:26:07,969 - INFO - Đang crawl trang 1...
+2025-09-10 16:26:08,596 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-10 16:26:08,596 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-10 16:26:08,596 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-10 16:26:12,196 - INFO - Đang crawl trang 2...
+2025-09-10 16:26:12,673 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-10 16:26:12,673 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-10 16:26:12,673 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-10 16:26:17,642 - INFO - Đã lưu tổng cộng 16 bài viết vào ../dataset/link/cmc_corporation/cmc_all_articles.json
+2025-09-10 16:26:17,642 - INFO - Hoàn thành crawl! Tổng cộng 16 bài viết từ 2 trang
+2025-09-10 16:26:17,700 - INFO - Đã đóng WebDriver
+2025-09-10 16:27:45,259 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 3
+2025-09-10 16:27:46,356 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-10 16:27:46,356 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Anh...
+2025-09-10 16:27:46,356 - INFO - Đang truy cập trang chủ để chuyển đổi ngôn ngữ...
+2025-09-10 16:27:59,480 - WARNING - Không thể chuyển ngôn ngữ: WebElement.get_attribute() takes 2 positional arguments but 3 were given
+2025-09-10 16:27:59,480 - INFO - Đang crawl trang 1...
+2025-09-10 16:28:01,138 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-10 16:28:01,138 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-10 16:28:01,138 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-10 16:28:03,169 - INFO - Đang crawl trang 2...
+2025-09-10 16:28:03,559 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-10 16:28:03,560 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-10 16:28:03,560 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-10 16:28:06,522 - INFO - Đang crawl trang 3...
+2025-09-10 16:28:07,174 - INFO - Đã trích xuất 8 bài viết từ trang 3
+2025-09-10 16:28:07,174 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_3.json
+2025-09-10 16:28:07,174 - INFO - Đã hoàn thành trang 3 với 8 bài viết
+2025-09-10 16:28:10,144 - INFO - Đã lưu tổng cộng 24 bài viết vào ../dataset/link/cmc_corporation/cmc_all_articles.json
+2025-09-10 16:28:10,144 - INFO - Hoàn thành crawl! Tổng cộng 24 bài viết từ 3 trang
+2025-09-10 16:28:10,203 - INFO - Đã đóng WebDriver
+2025-09-10 16:31:12,019 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 3
+2025-09-10 16:31:13,099 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-10 16:31:13,100 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Anh...
+2025-09-10 16:31:13,100 - INFO - Đang truy cập trang chủ để chuyển đổi ngôn ngữ...
+2025-09-10 16:31:26,272 - WARNING - Không thể chuyển ngôn ngữ: WebElement.get_attribute() takes 2 positional arguments but 3 were given
+2025-09-10 16:31:26,272 - INFO - Đang crawl trang 1...
+2025-09-10 16:31:26,878 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-10 16:31:26,878 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-10 16:31:26,878 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-10 16:31:29,453 - INFO - Đang crawl trang 2...
+2025-09-10 16:31:29,831 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-10 16:31:29,832 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-10 16:31:29,832 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-10 16:31:31,508 - INFO - Crawl bị dừng bởi người dùng
+2025-09-10 16:31:31,511 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/18fb97e5a94e59227433f80bc2f10c59
+2025-09-10 16:31:31,512 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7320d5905780>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/18fb97e5a94e59227433f80bc2f10c59
+2025-09-10 16:31:31,513 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7320d59058d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/18fb97e5a94e59227433f80bc2f10c59
+2025-09-10 16:31:31,513 - INFO - Đã đóng WebDriver
+2025-09-10 16:32:28,064 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 4
+2025-09-10 16:32:29,147 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-10 16:32:29,147 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Anh...
+2025-09-10 16:32:29,147 - INFO - Đang truy cập trang chủ để chuyển đổi ngôn ngữ...
+2025-09-10 16:32:39,902 - INFO - Crawl bị dừng bởi người dùng
+2025-09-10 16:32:39,903 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/d6c2aa2d95a3f3f29b545d28287ddf64
+2025-09-10 16:32:39,903 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72e3a39f2ef0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d6c2aa2d95a3f3f29b545d28287ddf64
+2025-09-10 16:32:39,904 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72e3a39f2d40>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d6c2aa2d95a3f3f29b545d28287ddf64
+2025-09-10 16:32:39,904 - INFO - Đã đóng WebDriver
+2025-09-10 16:32:44,214 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 3
+2025-09-10 16:32:45,309 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-10 16:32:45,309 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Anh...
+2025-09-10 16:32:45,309 - INFO - Đang truy cập trang chủ để chuyển đổi ngôn ngữ...
+2025-09-10 16:32:59,125 - WARNING - Không thể chuyển ngôn ngữ: WebElement.get_attribute() takes 2 positional arguments but 3 were given
+2025-09-10 16:32:59,125 - INFO - Đang crawl trang 1...
+2025-09-10 16:33:00,410 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-10 16:33:00,411 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-10 16:33:00,411 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-10 16:33:04,554 - INFO - Đang crawl trang 2...
+2025-09-10 16:33:04,928 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-10 16:33:04,929 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-10 16:33:04,929 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-10 16:33:09,286 - INFO - Đang crawl trang 3...
+2025-09-10 16:33:09,973 - INFO - Đã trích xuất 8 bài viết từ trang 3
+2025-09-10 16:33:09,973 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_3.json
+2025-09-10 16:33:09,973 - INFO - Đã hoàn thành trang 3 với 8 bài viết
+2025-09-10 16:33:13,058 - INFO - Đã lưu tổng cộng 24 bài viết vào ../dataset/link/cmc_corporation/cmc_all_articles.json
+2025-09-10 16:33:13,058 - INFO - Hoàn thành crawl! Tổng cộng 24 bài viết từ 3 trang
+2025-09-10 16:33:13,117 - INFO - Đã đóng WebDriver
+2025-09-11 08:19:00,474 - INFO - Đã tạo thư mục: ../dataset/link/cmc_corporation
+2025-09-11 08:19:04,911 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 2
+2025-09-11 08:19:06,023 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-11 08:19:06,023 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Anh...
+2025-09-11 08:19:06,023 - INFO - Đang truy cập trang chủ để chuyển đổi ngôn ngữ...
+2025-09-11 08:19:13,989 - INFO - Đang tìm và click vào dropdown ngôn ngữ...
+2025-09-11 08:19:15,048 - INFO - Đã click vào dropdown ngôn ngữ thành công!
+2025-09-11 08:19:17,050 - INFO - Đang tìm và click vào link tiếng Anh...
+2025-09-11 08:19:17,087 - INFO - Không tìm thấy link tiếng Anh hoặc đã ở chế độ tiếng Anh
+2025-09-11 08:19:17,087 - INFO - Đang crawl trang 1...
+2025-09-11 08:19:17,087 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p1
+2025-09-11 08:19:17,728 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:19:17,734 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p1
+2025-09-11 08:19:18,017 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:19:18,053 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-11 08:19:18,053 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-11 08:19:18,053 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-11 08:19:21,934 - INFO - Đang crawl trang 2...
+2025-09-11 08:19:21,934 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p2
+2025-09-11 08:19:22,126 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:19:22,130 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p2
+2025-09-11 08:19:22,523 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:19:22,556 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-11 08:19:22,556 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-11 08:19:22,556 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-11 08:19:26,422 - INFO - Đã lưu tổng cộng 16 bài viết vào ../dataset/link/cmc_corporation/cmc_all_articles.json
+2025-09-11 08:19:26,422 - INFO - Hoàn thành crawl! Tổng cộng 16 bài viết từ 2 trang
+2025-09-11 08:19:26,481 - INFO - Đã đóng WebDriver
+2025-09-11 08:31:16,190 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 4
+2025-09-11 08:31:17,280 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-11 08:31:17,280 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Việt...
+2025-09-11 08:31:17,280 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Việt...
+2025-09-11 08:31:28,078 - INFO - URL hiện tại sau khi chuyển ngôn ngữ: https://www.cmc.com.vn/
+2025-09-11 08:31:28,078 - INFO - Đã chuyển đổi ngôn ngữ sang tiếng Việt thành công!
+2025-09-11 08:31:28,078 - INFO - Đang crawl trang 1...
+2025-09-11 08:31:28,079 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p1
+2025-09-11 08:31:29,506 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:31:29,513 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p1
+2025-09-11 08:31:29,838 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:31:29,875 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-11 08:31:29,875 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-11 08:31:29,875 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-11 08:31:31,913 - INFO - Đang crawl trang 2...
+2025-09-11 08:31:31,913 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p2
+2025-09-11 08:31:32,153 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:31:32,158 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p2
+2025-09-11 08:31:32,389 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:31:32,424 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-11 08:31:32,424 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-11 08:31:32,424 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-11 08:31:35,570 - INFO - Đang crawl trang 3...
+2025-09-11 08:31:35,571 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p3
+2025-09-11 08:31:35,820 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:31:35,824 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p3
+2025-09-11 08:31:36,120 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:31:36,161 - INFO - Đã trích xuất 8 bài viết từ trang 3
+2025-09-11 08:31:36,161 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_3.json
+2025-09-11 08:31:36,161 - INFO - Đã hoàn thành trang 3 với 8 bài viết
+2025-09-11 08:31:38,690 - INFO - Đang crawl trang 4...
+2025-09-11 08:31:38,690 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p4
+2025-09-11 08:31:38,994 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:31:38,998 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p4
+2025-09-11 08:31:39,241 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:31:39,273 - INFO - Đã trích xuất 8 bài viết từ trang 4
+2025-09-11 08:31:39,273 - INFO - Đã lưu 8 bài viết vào ../dataset/link/cmc_corporation/cmc_page_4.json
+2025-09-11 08:31:39,273 - INFO - Đã hoàn thành trang 4 với 8 bài viết
+2025-09-11 08:31:42,056 - INFO - Đã lưu tổng cộng 32 bài viết vào ../dataset/link/cmc_corporation/cmc_all_articles.json
+2025-09-11 08:31:42,056 - INFO - Hoàn thành crawl! Tổng cộng 32 bài viết từ 4 trang
+2025-09-11 08:31:42,115 - INFO - Đã đóng WebDriver
+2025-09-11 08:32:42,055 - INFO - Bắt đầu crawl dữ liệu từ CMC Corporation
+2025-09-11 08:32:43,131 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-11 08:32:43,131 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Việt...
+2025-09-11 08:32:43,132 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Việt...
+2025-09-11 08:32:48,201 - INFO - Crawl bị dừng bởi người dùng
+2025-09-11 08:32:48,203 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/ae90c47afcc114777fd85797e361d946
+2025-09-11 08:32:48,203 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x765006ade560>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ae90c47afcc114777fd85797e361d946
+2025-09-11 08:32:48,203 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x765006ade5f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ae90c47afcc114777fd85797e361d946
+2025-09-11 08:32:48,204 - INFO - Đã đóng WebDriver
+2025-09-11 08:32:55,198 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 47
+2025-09-11 08:32:56,295 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-11 08:32:56,295 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Việt...
+2025-09-11 08:32:56,295 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Việt...
+2025-09-11 08:33:00,393 - INFO - URL hiện tại sau khi chuyển ngôn ngữ: https://www.cmc.com.vn/
+2025-09-11 08:33:00,393 - INFO - Đã chuyển đổi ngôn ngữ sang tiếng Việt thành công!
+2025-09-11 08:33:00,393 - INFO - Đang crawl trang 1...
+2025-09-11 08:33:00,393 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p1
+2025-09-11 08:33:01,474 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:01,480 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p1
+2025-09-11 08:33:01,776 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:01,814 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-11 08:33:01,815 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-11 08:33:01,815 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-11 08:33:05,075 - INFO - Đang crawl trang 2...
+2025-09-11 08:33:05,075 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p2
+2025-09-11 08:33:05,530 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:05,535 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p2
+2025-09-11 08:33:06,148 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:06,182 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-11 08:33:06,183 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-11 08:33:06,183 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-11 08:33:10,286 - INFO - Đang crawl trang 3...
+2025-09-11 08:33:10,286 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p3
+2025-09-11 08:33:10,530 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:10,535 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p3
+2025-09-11 08:33:10,771 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:10,806 - INFO - Đã trích xuất 8 bài viết từ trang 3
+2025-09-11 08:33:10,806 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_3.json
+2025-09-11 08:33:10,806 - INFO - Đã hoàn thành trang 3 với 8 bài viết
+2025-09-11 08:33:13,298 - INFO - Đang crawl trang 4...
+2025-09-11 08:33:13,298 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p4
+2025-09-11 08:33:13,596 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:13,602 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p4
+2025-09-11 08:33:13,822 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:13,855 - INFO - Đã trích xuất 8 bài viết từ trang 4
+2025-09-11 08:33:13,856 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_4.json
+2025-09-11 08:33:13,856 - INFO - Đã hoàn thành trang 4 với 8 bài viết
+2025-09-11 08:33:18,046 - INFO - Đang crawl trang 5...
+2025-09-11 08:33:18,046 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p5
+2025-09-11 08:33:18,340 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:18,345 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p5
+2025-09-11 08:33:18,638 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:18,671 - INFO - Đã trích xuất 8 bài viết từ trang 5
+2025-09-11 08:33:18,672 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_5.json
+2025-09-11 08:33:18,672 - INFO - Đã hoàn thành trang 5 với 8 bài viết
+2025-09-11 08:33:23,031 - INFO - Đang crawl trang 6...
+2025-09-11 08:33:23,031 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p6
+2025-09-11 08:33:23,428 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:23,433 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p6
+2025-09-11 08:33:24,259 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:24,292 - INFO - Đã trích xuất 8 bài viết từ trang 6
+2025-09-11 08:33:24,292 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_6.json
+2025-09-11 08:33:24,293 - INFO - Đã hoàn thành trang 6 với 8 bài viết
+2025-09-11 08:33:26,297 - INFO - Đang crawl trang 7...
+2025-09-11 08:33:26,297 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p7
+2025-09-11 08:33:28,264 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:28,269 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p7
+2025-09-11 08:33:28,574 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:28,604 - INFO - Đã trích xuất 8 bài viết từ trang 7
+2025-09-11 08:33:28,605 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_7.json
+2025-09-11 08:33:28,605 - INFO - Đã hoàn thành trang 7 với 8 bài viết
+2025-09-11 08:33:31,527 - INFO - Đang crawl trang 8...
+2025-09-11 08:33:31,527 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p8
+2025-09-11 08:33:33,366 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:33,371 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p8
+2025-09-11 08:33:33,667 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:33,711 - INFO - Đã trích xuất 8 bài viết từ trang 8
+2025-09-11 08:33:33,712 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_8.json
+2025-09-11 08:33:33,712 - INFO - Đã hoàn thành trang 8 với 8 bài viết
+2025-09-11 08:33:36,520 - INFO - Đang crawl trang 9...
+2025-09-11 08:33:36,520 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p9
+2025-09-11 08:33:42,385 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:42,389 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p9
+2025-09-11 08:33:42,808 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:42,837 - INFO - Đã trích xuất 8 bài viết từ trang 9
+2025-09-11 08:33:42,837 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_9.json
+2025-09-11 08:33:42,837 - INFO - Đã hoàn thành trang 9 với 8 bài viết
+2025-09-11 08:33:46,594 - INFO - Đang crawl trang 10...
+2025-09-11 08:33:46,595 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p10
+2025-09-11 08:33:48,233 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:48,237 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p10
+2025-09-11 08:33:52,717 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:52,749 - INFO - Đã trích xuất 8 bài viết từ trang 10
+2025-09-11 08:33:52,749 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_10.json
+2025-09-11 08:33:52,749 - INFO - Đã hoàn thành trang 10 với 8 bài viết
+2025-09-11 08:33:55,137 - INFO - Đang crawl trang 11...
+2025-09-11 08:33:55,137 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p11
+2025-09-11 08:33:57,166 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:57,169 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p11
+2025-09-11 08:33:57,655 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:33:57,687 - INFO - Đã trích xuất 8 bài viết từ trang 11
+2025-09-11 08:33:57,687 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_11.json
+2025-09-11 08:33:57,688 - INFO - Đã hoàn thành trang 11 với 8 bài viết
+2025-09-11 08:34:01,424 - INFO - Đang crawl trang 12...
+2025-09-11 08:34:01,424 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p12
+2025-09-11 08:34:03,065 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:03,069 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p12
+2025-09-11 08:34:03,331 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:03,362 - INFO - Đã trích xuất 8 bài viết từ trang 12
+2025-09-11 08:34:03,363 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_12.json
+2025-09-11 08:34:03,363 - INFO - Đã hoàn thành trang 12 với 8 bài viết
+2025-09-11 08:34:08,333 - INFO - Đang crawl trang 13...
+2025-09-11 08:34:08,334 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p13
+2025-09-11 08:34:10,331 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:10,335 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p13
+2025-09-11 08:34:11,045 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:11,077 - INFO - Đã trích xuất 8 bài viết từ trang 13
+2025-09-11 08:34:11,077 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_13.json
+2025-09-11 08:34:11,077 - INFO - Đã hoàn thành trang 13 với 8 bài viết
+2025-09-11 08:34:14,719 - INFO - Đang crawl trang 14...
+2025-09-11 08:34:14,719 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p14
+2025-09-11 08:34:16,330 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:16,335 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p14
+2025-09-11 08:34:16,590 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:16,621 - INFO - Đã trích xuất 8 bài viết từ trang 14
+2025-09-11 08:34:16,622 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_14.json
+2025-09-11 08:34:16,622 - INFO - Đã hoàn thành trang 14 với 8 bài viết
+2025-09-11 08:34:18,882 - INFO - Đang crawl trang 15...
+2025-09-11 08:34:18,882 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p15
+2025-09-11 08:34:19,364 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:19,368 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p15
+2025-09-11 08:34:19,584 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:19,614 - INFO - Đã trích xuất 8 bài viết từ trang 15
+2025-09-11 08:34:19,614 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_15.json
+2025-09-11 08:34:19,614 - INFO - Đã hoàn thành trang 15 với 8 bài viết
+2025-09-11 08:34:24,148 - INFO - Đang crawl trang 16...
+2025-09-11 08:34:24,148 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p16
+2025-09-11 08:34:25,922 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:25,926 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p16
+2025-09-11 08:34:26,106 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:26,139 - INFO - Đã trích xuất 8 bài viết từ trang 16
+2025-09-11 08:34:26,139 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_16.json
+2025-09-11 08:34:26,139 - INFO - Đã hoàn thành trang 16 với 8 bài viết
+2025-09-11 08:34:30,646 - INFO - Đang crawl trang 17...
+2025-09-11 08:34:30,646 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p17
+2025-09-11 08:34:32,284 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:32,288 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p17
+2025-09-11 08:34:32,466 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:32,499 - INFO - Đã trích xuất 8 bài viết từ trang 17
+2025-09-11 08:34:32,499 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_17.json
+2025-09-11 08:34:32,499 - INFO - Đã hoàn thành trang 17 với 8 bài viết
+2025-09-11 08:34:35,972 - INFO - Đang crawl trang 18...
+2025-09-11 08:34:35,972 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p18
+2025-09-11 08:34:37,634 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:37,638 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p18
+2025-09-11 08:34:37,927 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:37,959 - INFO - Đã trích xuất 8 bài viết từ trang 18
+2025-09-11 08:34:37,960 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_18.json
+2025-09-11 08:34:37,960 - INFO - Đã hoàn thành trang 18 với 8 bài viết
+2025-09-11 08:34:41,455 - INFO - Đang crawl trang 19...
+2025-09-11 08:34:41,456 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p19
+2025-09-11 08:34:47,310 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:47,314 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p19
+2025-09-11 08:34:47,597 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:47,631 - INFO - Đã trích xuất 8 bài viết từ trang 19
+2025-09-11 08:34:47,631 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_19.json
+2025-09-11 08:34:47,631 - INFO - Đã hoàn thành trang 19 với 8 bài viết
+2025-09-11 08:34:50,684 - INFO - Đang crawl trang 20...
+2025-09-11 08:34:50,684 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p20
+2025-09-11 08:34:52,505 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:52,510 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p20
+2025-09-11 08:34:52,931 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:34:52,961 - INFO - Đã trích xuất 8 bài viết từ trang 20
+2025-09-11 08:34:52,961 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_20.json
+2025-09-11 08:34:52,961 - INFO - Đã hoàn thành trang 20 với 8 bài viết
+2025-09-11 08:34:57,692 - INFO - Đang crawl trang 21...
+2025-09-11 08:34:57,692 - INFO - Khởi động lại driver sau 20 trang...
+2025-09-11 08:34:57,692 - INFO - Đang khởi động lại WebDriver...
+2025-09-11 08:34:57,759 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b6dbd20e500>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/55155c313a634b480654e7b36deeb554
+2025-09-11 08:34:57,759 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b6dbd20e6e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/55155c313a634b480654e7b36deeb554
+2025-09-11 08:34:57,759 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b6dbd20e860>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/55155c313a634b480654e7b36deeb554
+2025-09-11 08:34:58,846 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-11 08:34:58,847 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Việt...
+2025-09-11 08:35:03,308 - INFO - URL hiện tại sau khi chuyển ngôn ngữ: https://www.cmc.com.vn/
+2025-09-11 08:35:03,308 - INFO - Đã chuyển đổi ngôn ngữ sang tiếng Việt thành công!
+2025-09-11 08:35:03,308 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p21
+2025-09-11 08:35:05,121 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:05,128 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p21
+2025-09-11 08:35:05,357 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:05,417 - INFO - Đã trích xuất 8 bài viết từ trang 21
+2025-09-11 08:35:05,417 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_21.json
+2025-09-11 08:35:05,417 - INFO - Đã hoàn thành trang 21 với 8 bài viết
+2025-09-11 08:35:07,442 - INFO - Đang crawl trang 22...
+2025-09-11 08:35:07,442 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p22
+2025-09-11 08:35:09,026 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:09,032 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p22
+2025-09-11 08:35:09,259 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:09,293 - INFO - Đã trích xuất 8 bài viết từ trang 22
+2025-09-11 08:35:09,293 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_22.json
+2025-09-11 08:35:09,293 - INFO - Đã hoàn thành trang 22 với 8 bài viết
+2025-09-11 08:35:13,369 - INFO - Đang crawl trang 23...
+2025-09-11 08:35:13,370 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p23
+2025-09-11 08:35:14,989 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:14,994 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p23
+2025-09-11 08:35:15,370 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:15,400 - INFO - Đã trích xuất 8 bài viết từ trang 23
+2025-09-11 08:35:15,401 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_23.json
+2025-09-11 08:35:15,401 - INFO - Đã hoàn thành trang 23 với 8 bài viết
+2025-09-11 08:35:18,063 - INFO - Đang crawl trang 24...
+2025-09-11 08:35:18,063 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p24
+2025-09-11 08:35:19,847 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:19,852 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p24
+2025-09-11 08:35:20,290 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:20,327 - INFO - Đã trích xuất 8 bài viết từ trang 24
+2025-09-11 08:35:20,328 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_24.json
+2025-09-11 08:35:20,328 - INFO - Đã hoàn thành trang 24 với 8 bài viết
+2025-09-11 08:35:23,130 - INFO - Đang crawl trang 25...
+2025-09-11 08:35:23,130 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p25
+2025-09-11 08:35:23,374 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:23,379 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p25
+2025-09-11 08:35:23,672 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:23,704 - INFO - Đã trích xuất 8 bài viết từ trang 25
+2025-09-11 08:35:23,704 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_25.json
+2025-09-11 08:35:23,704 - INFO - Đã hoàn thành trang 25 với 8 bài viết
+2025-09-11 08:35:26,974 - INFO - Đang crawl trang 26...
+2025-09-11 08:35:26,974 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p26
+2025-09-11 08:35:28,705 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:28,709 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p26
+2025-09-11 08:35:28,993 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:29,029 - INFO - Đã trích xuất 8 bài viết từ trang 26
+2025-09-11 08:35:29,030 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_26.json
+2025-09-11 08:35:29,030 - INFO - Đã hoàn thành trang 26 với 8 bài viết
+2025-09-11 08:35:33,977 - INFO - Đang crawl trang 27...
+2025-09-11 08:35:33,977 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p27
+2025-09-11 08:35:34,634 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:34,639 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p27
+2025-09-11 08:35:34,929 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:34,959 - INFO - Đã trích xuất 8 bài viết từ trang 27
+2025-09-11 08:35:34,960 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_27.json
+2025-09-11 08:35:34,960 - INFO - Đã hoàn thành trang 27 với 8 bài viết
+2025-09-11 08:35:38,809 - INFO - Đang crawl trang 28...
+2025-09-11 08:35:38,809 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p28
+2025-09-11 08:35:40,557 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:40,561 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p28
+2025-09-11 08:35:41,283 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:41,315 - INFO - Đã trích xuất 8 bài viết từ trang 28
+2025-09-11 08:35:41,315 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_28.json
+2025-09-11 08:35:41,315 - INFO - Đã hoàn thành trang 28 với 8 bài viết
+2025-09-11 08:35:45,286 - INFO - Đang crawl trang 29...
+2025-09-11 08:35:45,287 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p29
+2025-09-11 08:35:47,040 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:47,044 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p29
+2025-09-11 08:35:47,325 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:35:47,358 - INFO - Đã trích xuất 8 bài viết từ trang 29
+2025-09-11 08:35:47,358 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_29.json
+2025-09-11 08:35:47,358 - INFO - Đã hoàn thành trang 29 với 8 bài viết
+2025-09-11 08:35:50,302 - INFO - Đang crawl trang 30...
+2025-09-11 08:35:50,302 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p30
+2025-09-11 08:36:00,106 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:00,110 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p30
+2025-09-11 08:36:00,431 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:00,462 - INFO - Đã trích xuất 8 bài viết từ trang 30
+2025-09-11 08:36:00,463 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_30.json
+2025-09-11 08:36:00,463 - INFO - Đã hoàn thành trang 30 với 8 bài viết
+2025-09-11 08:36:03,059 - INFO - Đang crawl trang 31...
+2025-09-11 08:36:03,059 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p31
+2025-09-11 08:36:04,749 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:04,753 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p31
+2025-09-11 08:36:05,019 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:05,051 - INFO - Đã trích xuất 8 bài viết từ trang 31
+2025-09-11 08:36:05,052 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_31.json
+2025-09-11 08:36:05,052 - INFO - Đã hoàn thành trang 31 với 8 bài viết
+2025-09-11 08:36:08,717 - INFO - Đang crawl trang 32...
+2025-09-11 08:36:08,717 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p32
+2025-09-11 08:36:10,432 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:10,438 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p32
+2025-09-11 08:36:10,688 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:10,721 - INFO - Đã trích xuất 8 bài viết từ trang 32
+2025-09-11 08:36:10,721 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_32.json
+2025-09-11 08:36:10,721 - INFO - Đã hoàn thành trang 32 với 8 bài viết
+2025-09-11 08:36:15,612 - INFO - Đang crawl trang 33...
+2025-09-11 08:36:15,613 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p33
+2025-09-11 08:36:17,184 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:17,188 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p33
+2025-09-11 08:36:17,446 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:17,479 - INFO - Đã trích xuất 8 bài viết từ trang 33
+2025-09-11 08:36:17,480 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_33.json
+2025-09-11 08:36:17,480 - INFO - Đã hoàn thành trang 33 với 8 bài viết
+2025-09-11 08:36:21,016 - INFO - Đang crawl trang 34...
+2025-09-11 08:36:21,016 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p34
+2025-09-11 08:36:22,657 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:22,661 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p34
+2025-09-11 08:36:22,852 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:22,883 - INFO - Đã trích xuất 8 bài viết từ trang 34
+2025-09-11 08:36:22,884 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_34.json
+2025-09-11 08:36:22,884 - INFO - Đã hoàn thành trang 34 với 8 bài viết
+2025-09-11 08:36:27,445 - INFO - Đang crawl trang 35...
+2025-09-11 08:36:27,445 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p35
+2025-09-11 08:36:27,712 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:27,717 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p35
+2025-09-11 08:36:28,340 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:28,379 - INFO - Đã trích xuất 8 bài viết từ trang 35
+2025-09-11 08:36:28,379 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_35.json
+2025-09-11 08:36:28,379 - INFO - Đã hoàn thành trang 35 với 8 bài viết
+2025-09-11 08:36:30,527 - INFO - Đang crawl trang 36...
+2025-09-11 08:36:30,527 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p36
+2025-09-11 08:36:32,223 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:32,229 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p36
+2025-09-11 08:36:32,511 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:32,547 - INFO - Đã trích xuất 8 bài viết từ trang 36
+2025-09-11 08:36:32,548 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_36.json
+2025-09-11 08:36:32,548 - INFO - Đã hoàn thành trang 36 với 8 bài viết
+2025-09-11 08:36:36,615 - INFO - Đang crawl trang 37...
+2025-09-11 08:36:36,615 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p37
+2025-09-11 08:36:38,137 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:38,142 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p37
+2025-09-11 08:36:38,338 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:38,371 - INFO - Đã trích xuất 8 bài viết từ trang 37
+2025-09-11 08:36:38,371 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_37.json
+2025-09-11 08:36:38,371 - INFO - Đã hoàn thành trang 37 với 8 bài viết
+2025-09-11 08:36:40,906 - INFO - Đang crawl trang 38...
+2025-09-11 08:36:40,906 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p38
+2025-09-11 08:36:42,724 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:42,729 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p38
+2025-09-11 08:36:42,936 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:42,969 - INFO - Đã trích xuất 8 bài viết từ trang 38
+2025-09-11 08:36:42,969 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_38.json
+2025-09-11 08:36:42,969 - INFO - Đã hoàn thành trang 38 với 8 bài viết
+2025-09-11 08:36:46,328 - INFO - Đang crawl trang 39...
+2025-09-11 08:36:46,328 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p39
+2025-09-11 08:36:46,561 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:46,566 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p39
+2025-09-11 08:36:46,821 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:46,877 - INFO - Đã trích xuất 8 bài viết từ trang 39
+2025-09-11 08:36:46,877 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_39.json
+2025-09-11 08:36:46,878 - INFO - Đã hoàn thành trang 39 với 8 bài viết
+2025-09-11 08:36:49,297 - INFO - Đang crawl trang 40...
+2025-09-11 08:36:49,297 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p40
+2025-09-11 08:36:51,196 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:51,202 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p40
+2025-09-11 08:36:51,430 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:36:51,461 - INFO - Đã trích xuất 8 bài viết từ trang 40
+2025-09-11 08:36:51,461 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_40.json
+2025-09-11 08:36:51,461 - INFO - Đã hoàn thành trang 40 với 8 bài viết
+2025-09-11 08:36:55,687 - INFO - Đang crawl trang 41...
+2025-09-11 08:36:55,687 - INFO - Khởi động lại driver sau 20 trang...
+2025-09-11 08:36:55,687 - INFO - Đang khởi động lại WebDriver...
+2025-09-11 08:36:55,750 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b6dbd487010>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/276ad9d698ecebbcc2655624f2db2b8a
+2025-09-11 08:36:55,750 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b6dbd487370>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/276ad9d698ecebbcc2655624f2db2b8a
+2025-09-11 08:36:55,751 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b6dbd487280>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/276ad9d698ecebbcc2655624f2db2b8a
+2025-09-11 08:36:56,837 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-11 08:36:56,837 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Việt...
+2025-09-11 08:37:01,568 - INFO - URL hiện tại sau khi chuyển ngôn ngữ: https://www.cmc.com.vn/
+2025-09-11 08:37:01,569 - INFO - Đã chuyển đổi ngôn ngữ sang tiếng Việt thành công!
+2025-09-11 08:37:01,569 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p41
+2025-09-11 08:37:01,949 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:37:01,955 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p41
+2025-09-11 08:37:02,148 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:37:02,185 - INFO - Đã trích xuất 8 bài viết từ trang 41
+2025-09-11 08:37:02,185 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_41.json
+2025-09-11 08:37:02,185 - INFO - Đã hoàn thành trang 41 với 8 bài viết
+2025-09-11 08:37:06,355 - INFO - Đang crawl trang 42...
+2025-09-11 08:37:06,355 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p42
+2025-09-11 08:37:07,933 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:37:07,937 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p42
+2025-09-11 08:37:08,120 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:37:08,155 - INFO - Đã trích xuất 8 bài viết từ trang 42
+2025-09-11 08:37:08,156 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_42.json
+2025-09-11 08:37:08,156 - INFO - Đã hoàn thành trang 42 với 8 bài viết
+2025-09-11 08:37:12,540 - INFO - Đang crawl trang 43...
+2025-09-11 08:37:12,540 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p43
+2025-09-11 08:37:14,175 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:37:14,179 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p43
+2025-09-11 08:37:14,377 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:37:14,411 - INFO - Đã trích xuất 8 bài viết từ trang 43
+2025-09-11 08:37:14,411 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_43.json
+2025-09-11 08:37:14,411 - INFO - Đã hoàn thành trang 43 với 8 bài viết
+2025-09-11 08:37:18,921 - INFO - Đang crawl trang 44...
+2025-09-11 08:37:18,921 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p44
+2025-09-11 08:37:20,615 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:37:20,620 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p44
+2025-09-11 08:37:20,922 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:37:20,954 - INFO - Đã trích xuất 8 bài viết từ trang 44
+2025-09-11 08:37:20,954 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_44.json
+2025-09-11 08:37:20,954 - INFO - Đã hoàn thành trang 44 với 8 bài viết
+2025-09-11 08:37:23,779 - INFO - Đang crawl trang 45...
+2025-09-11 08:37:23,779 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p45
+2025-09-11 08:37:25,523 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:37:25,528 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p45
+2025-09-11 08:37:25,944 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:37:25,976 - INFO - Đã trích xuất 8 bài viết từ trang 45
+2025-09-11 08:37:25,977 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_45.json
+2025-09-11 08:37:25,977 - INFO - Đã hoàn thành trang 45 với 8 bài viết
+2025-09-11 08:37:28,797 - INFO - Đang crawl trang 46...
+2025-09-11 08:37:28,797 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p46
+2025-09-11 08:37:30,761 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:37:30,765 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p46
+2025-09-11 08:37:31,572 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:37:31,604 - INFO - Đã trích xuất 8 bài viết từ trang 46
+2025-09-11 08:37:31,604 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_46.json
+2025-09-11 08:37:31,604 - INFO - Đã hoàn thành trang 46 với 8 bài viết
+2025-09-11 08:37:34,777 - INFO - Đang crawl trang 47...
+2025-09-11 08:37:34,778 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p47
+2025-09-11 08:37:36,990 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:37:36,994 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p47
+2025-09-11 08:37:37,511 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-11 08:37:37,544 - INFO - Đã trích xuất 8 bài viết từ trang 47
+2025-09-11 08:37:37,544 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_47.json
+2025-09-11 08:37:37,545 - INFO - Đã hoàn thành trang 47 với 8 bài viết
+2025-09-11 08:37:39,755 - INFO - Đã lưu tổng cộng 376 bài viết vào ../../dataset/link/cmc_corporation/cmc_all_articles.json
+2025-09-11 08:37:39,755 - INFO - Hoàn thành crawl! Tổng cộng 376 bài viết từ 47 trang
+2025-09-11 08:37:39,814 - INFO - Đã đóng WebDriver
+2025-09-13 09:22:50,292 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 100
+2025-09-13 09:22:59,430 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-13 09:22:59,430 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Việt...
+2025-09-13 09:22:59,430 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Việt...
+2025-09-13 09:23:04,173 - INFO - URL hiện tại sau khi chuyển ngôn ngữ: https://www.cmc.com.vn/
+2025-09-13 09:23:04,173 - INFO - Đã chuyển đổi ngôn ngữ sang tiếng Việt thành công!
+2025-09-13 09:23:04,173 - INFO - Đang crawl trang 1...
+2025-09-13 09:23:04,173 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p1
+2025-09-13 09:23:04,682 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:04,692 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p1
+2025-09-13 09:23:04,899 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:04,934 - INFO - Đã trích xuất 8 bài viết từ trang 1
+2025-09-13 09:23:04,934 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_1.json
+2025-09-13 09:23:04,934 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-13 09:23:08,170 - INFO - Đang crawl trang 2...
+2025-09-13 09:23:08,170 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p2
+2025-09-13 09:23:08,503 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:08,509 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p2
+2025-09-13 09:23:08,937 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:08,967 - INFO - Đã trích xuất 8 bài viết từ trang 2
+2025-09-13 09:23:08,968 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_2.json
+2025-09-13 09:23:08,968 - INFO - Đã hoàn thành trang 2 với 8 bài viết
+2025-09-13 09:23:11,311 - INFO - Đang crawl trang 3...
+2025-09-13 09:23:11,311 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p3
+2025-09-13 09:23:11,742 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:11,746 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p3
+2025-09-13 09:23:12,431 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:12,474 - INFO - Đã trích xuất 8 bài viết từ trang 3
+2025-09-13 09:23:12,474 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_3.json
+2025-09-13 09:23:12,474 - INFO - Đã hoàn thành trang 3 với 8 bài viết
+2025-09-13 09:23:16,466 - INFO - Đang crawl trang 4...
+2025-09-13 09:23:16,466 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p4
+2025-09-13 09:23:16,878 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:16,882 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p4
+2025-09-13 09:23:17,211 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:17,242 - INFO - Đã trích xuất 8 bài viết từ trang 4
+2025-09-13 09:23:17,242 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_4.json
+2025-09-13 09:23:17,242 - INFO - Đã hoàn thành trang 4 với 8 bài viết
+2025-09-13 09:23:21,688 - INFO - Đang crawl trang 5...
+2025-09-13 09:23:21,688 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p5
+2025-09-13 09:23:22,190 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:22,195 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p5
+2025-09-13 09:23:22,528 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:22,560 - INFO - Đã trích xuất 8 bài viết từ trang 5
+2025-09-13 09:23:22,560 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_5.json
+2025-09-13 09:23:22,561 - INFO - Đã hoàn thành trang 5 với 8 bài viết
+2025-09-13 09:23:25,703 - INFO - Đang crawl trang 6...
+2025-09-13 09:23:25,703 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p6
+2025-09-13 09:23:26,083 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:26,088 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p6
+2025-09-13 09:23:26,439 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:26,469 - INFO - Đã trích xuất 8 bài viết từ trang 6
+2025-09-13 09:23:26,470 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_6.json
+2025-09-13 09:23:26,470 - INFO - Đã hoàn thành trang 6 với 8 bài viết
+2025-09-13 09:23:29,759 - INFO - Đang crawl trang 7...
+2025-09-13 09:23:29,759 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p7
+2025-09-13 09:23:31,626 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:31,630 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p7
+2025-09-13 09:23:31,927 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:31,961 - INFO - Đã trích xuất 8 bài viết từ trang 7
+2025-09-13 09:23:31,961 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_7.json
+2025-09-13 09:23:31,961 - INFO - Đã hoàn thành trang 7 với 8 bài viết
+2025-09-13 09:23:34,646 - INFO - Đang crawl trang 8...
+2025-09-13 09:23:34,646 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p8
+2025-09-13 09:23:36,545 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:36,549 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p8
+2025-09-13 09:23:36,869 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:36,901 - INFO - Đã trích xuất 8 bài viết từ trang 8
+2025-09-13 09:23:36,902 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_8.json
+2025-09-13 09:23:36,902 - INFO - Đã hoàn thành trang 8 với 8 bài viết
+2025-09-13 09:23:41,613 - INFO - Đang crawl trang 9...
+2025-09-13 09:23:41,613 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p9
+2025-09-13 09:23:43,245 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:43,249 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p9
+2025-09-13 09:23:43,604 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:43,636 - INFO - Đã trích xuất 8 bài viết từ trang 9
+2025-09-13 09:23:43,637 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_9.json
+2025-09-13 09:23:43,637 - INFO - Đã hoàn thành trang 9 với 8 bài viết
+2025-09-13 09:23:47,655 - INFO - Đang crawl trang 10...
+2025-09-13 09:23:47,656 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p10
+2025-09-13 09:23:49,277 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:49,282 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p10
+2025-09-13 09:23:49,575 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:49,606 - INFO - Đã trích xuất 8 bài viết từ trang 10
+2025-09-13 09:23:49,606 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_10.json
+2025-09-13 09:23:49,606 - INFO - Đã hoàn thành trang 10 với 8 bài viết
+2025-09-13 09:23:52,380 - INFO - Đang crawl trang 11...
+2025-09-13 09:23:52,380 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p11
+2025-09-13 09:23:54,051 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:54,056 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p11
+2025-09-13 09:23:54,385 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:23:54,419 - INFO - Đã trích xuất 8 bài viết từ trang 11
+2025-09-13 09:23:54,420 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_11.json
+2025-09-13 09:23:54,420 - INFO - Đã hoàn thành trang 11 với 8 bài viết
+2025-09-13 09:23:58,374 - INFO - Đang crawl trang 12...
+2025-09-13 09:23:58,374 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p12
+2025-09-13 09:24:00,042 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:00,047 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p12
+2025-09-13 09:24:00,617 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:00,648 - INFO - Đã trích xuất 8 bài viết từ trang 12
+2025-09-13 09:24:00,649 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_12.json
+2025-09-13 09:24:00,649 - INFO - Đã hoàn thành trang 12 với 8 bài viết
+2025-09-13 09:24:03,734 - INFO - Đang crawl trang 13...
+2025-09-13 09:24:03,735 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p13
+2025-09-13 09:24:05,393 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:05,397 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p13
+2025-09-13 09:24:05,641 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:05,672 - INFO - Đã trích xuất 8 bài viết từ trang 13
+2025-09-13 09:24:05,673 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_13.json
+2025-09-13 09:24:05,673 - INFO - Đã hoàn thành trang 13 với 8 bài viết
+2025-09-13 09:24:08,870 - INFO - Đang crawl trang 14...
+2025-09-13 09:24:08,870 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p14
+2025-09-13 09:24:10,463 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:10,467 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p14
+2025-09-13 09:24:10,684 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:10,717 - INFO - Đã trích xuất 8 bài viết từ trang 14
+2025-09-13 09:24:10,717 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_14.json
+2025-09-13 09:24:10,717 - INFO - Đã hoàn thành trang 14 với 8 bài viết
+2025-09-13 09:24:14,120 - INFO - Đang crawl trang 15...
+2025-09-13 09:24:14,120 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p15
+2025-09-13 09:24:15,594 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:15,598 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p15
+2025-09-13 09:24:15,817 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:15,851 - INFO - Đã trích xuất 8 bài viết từ trang 15
+2025-09-13 09:24:15,851 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_15.json
+2025-09-13 09:24:15,851 - INFO - Đã hoàn thành trang 15 với 8 bài viết
+2025-09-13 09:24:19,261 - INFO - Đang crawl trang 16...
+2025-09-13 09:24:19,261 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p16
+2025-09-13 09:24:20,747 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:20,752 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p16
+2025-09-13 09:24:21,107 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:21,142 - INFO - Đã trích xuất 8 bài viết từ trang 16
+2025-09-13 09:24:21,142 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_16.json
+2025-09-13 09:24:21,142 - INFO - Đã hoàn thành trang 16 với 8 bài viết
+2025-09-13 09:24:24,772 - INFO - Đang crawl trang 17...
+2025-09-13 09:24:24,772 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p17
+2025-09-13 09:24:26,198 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:26,202 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p17
+2025-09-13 09:24:26,382 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:26,414 - INFO - Đã trích xuất 8 bài viết từ trang 17
+2025-09-13 09:24:26,415 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_17.json
+2025-09-13 09:24:26,415 - INFO - Đã hoàn thành trang 17 với 8 bài viết
+2025-09-13 09:24:28,846 - INFO - Đang crawl trang 18...
+2025-09-13 09:24:28,846 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p18
+2025-09-13 09:24:30,772 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:30,777 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p18
+2025-09-13 09:24:31,332 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:31,365 - INFO - Đã trích xuất 8 bài viết từ trang 18
+2025-09-13 09:24:31,365 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_18.json
+2025-09-13 09:24:31,365 - INFO - Đã hoàn thành trang 18 với 8 bài viết
+2025-09-13 09:24:34,503 - INFO - Đang crawl trang 19...
+2025-09-13 09:24:34,503 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p19
+2025-09-13 09:24:35,977 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:35,982 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p19
+2025-09-13 09:24:36,249 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:36,282 - INFO - Đã trích xuất 8 bài viết từ trang 19
+2025-09-13 09:24:36,282 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_19.json
+2025-09-13 09:24:36,282 - INFO - Đã hoàn thành trang 19 với 8 bài viết
+2025-09-13 09:24:38,945 - INFO - Đang crawl trang 20...
+2025-09-13 09:24:38,945 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p20
+2025-09-13 09:24:40,420 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:40,424 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p20
+2025-09-13 09:24:40,656 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:40,688 - INFO - Đã trích xuất 8 bài viết từ trang 20
+2025-09-13 09:24:40,689 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_20.json
+2025-09-13 09:24:40,689 - INFO - Đã hoàn thành trang 20 với 8 bài viết
+2025-09-13 09:24:42,821 - INFO - Đang crawl trang 21...
+2025-09-13 09:24:42,821 - INFO - Khởi động lại driver sau 20 trang...
+2025-09-13 09:24:42,821 - INFO - Đang khởi động lại WebDriver...
+2025-09-13 09:24:42,890 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72b596d99f00>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/595307596249c721141b3103835a5164
+2025-09-13 09:24:42,890 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72b596d9a0e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/595307596249c721141b3103835a5164
+2025-09-13 09:24:42,891 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72b596d9a260>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/595307596249c721141b3103835a5164
+2025-09-13 09:24:43,981 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-13 09:24:43,981 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Việt...
+2025-09-13 09:24:48,041 - INFO - URL hiện tại sau khi chuyển ngôn ngữ: https://www.cmc.com.vn/
+2025-09-13 09:24:48,041 - INFO - Đã chuyển đổi ngôn ngữ sang tiếng Việt thành công!
+2025-09-13 09:24:48,041 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p21
+2025-09-13 09:24:49,958 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:49,965 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p21
+2025-09-13 09:24:50,202 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:50,263 - INFO - Đã trích xuất 8 bài viết từ trang 21
+2025-09-13 09:24:50,263 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_21.json
+2025-09-13 09:24:50,263 - INFO - Đã hoàn thành trang 21 với 8 bài viết
+2025-09-13 09:24:55,217 - INFO - Đang crawl trang 22...
+2025-09-13 09:24:55,217 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p22
+2025-09-13 09:24:57,843 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:57,847 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p22
+2025-09-13 09:24:58,163 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:24:58,198 - INFO - Đã trích xuất 8 bài viết từ trang 22
+2025-09-13 09:24:58,198 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_22.json
+2025-09-13 09:24:58,199 - INFO - Đã hoàn thành trang 22 với 8 bài viết
+2025-09-13 09:25:02,033 - INFO - Đang crawl trang 23...
+2025-09-13 09:25:02,033 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p23
+2025-09-13 09:25:03,641 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:03,645 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p23
+2025-09-13 09:25:03,880 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:03,911 - INFO - Đã trích xuất 8 bài viết từ trang 23
+2025-09-13 09:25:03,912 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_23.json
+2025-09-13 09:25:03,912 - INFO - Đã hoàn thành trang 23 với 8 bài viết
+2025-09-13 09:25:08,282 - INFO - Đang crawl trang 24...
+2025-09-13 09:25:08,282 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p24
+2025-09-13 09:25:10,232 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:10,238 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p24
+2025-09-13 09:25:10,512 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:10,544 - INFO - Đã trích xuất 8 bài viết từ trang 24
+2025-09-13 09:25:10,545 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_24.json
+2025-09-13 09:25:10,545 - INFO - Đã hoàn thành trang 24 với 8 bài viết
+2025-09-13 09:25:14,857 - INFO - Đang crawl trang 25...
+2025-09-13 09:25:14,858 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p25
+2025-09-13 09:25:16,714 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:16,719 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p25
+2025-09-13 09:25:16,999 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:17,037 - INFO - Đã trích xuất 8 bài viết từ trang 25
+2025-09-13 09:25:17,038 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_25.json
+2025-09-13 09:25:17,038 - INFO - Đã hoàn thành trang 25 với 8 bài viết
+2025-09-13 09:25:19,998 - INFO - Đang crawl trang 26...
+2025-09-13 09:25:19,998 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p26
+2025-09-13 09:25:21,528 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:21,532 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p26
+2025-09-13 09:25:21,833 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:21,859 - INFO - Đã trích xuất 8 bài viết từ trang 26
+2025-09-13 09:25:21,860 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_26.json
+2025-09-13 09:25:21,860 - INFO - Đã hoàn thành trang 26 với 8 bài viết
+2025-09-13 09:25:26,362 - INFO - Đang crawl trang 27...
+2025-09-13 09:25:26,362 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p27
+2025-09-13 09:25:28,171 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:28,174 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p27
+2025-09-13 09:25:28,441 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:28,466 - INFO - Đã trích xuất 8 bài viết từ trang 27
+2025-09-13 09:25:28,467 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_27.json
+2025-09-13 09:25:28,467 - INFO - Đã hoàn thành trang 27 với 8 bài viết
+2025-09-13 09:25:32,873 - INFO - Đang crawl trang 28...
+2025-09-13 09:25:32,873 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p28
+2025-09-13 09:25:34,520 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:34,524 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p28
+2025-09-13 09:25:34,725 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:34,750 - INFO - Đã trích xuất 8 bài viết từ trang 28
+2025-09-13 09:25:34,750 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_28.json
+2025-09-13 09:25:34,750 - INFO - Đã hoàn thành trang 28 với 8 bài viết
+2025-09-13 09:25:39,470 - INFO - Đang crawl trang 29...
+2025-09-13 09:25:39,471 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p29
+2025-09-13 09:25:41,286 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:41,289 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p29
+2025-09-13 09:25:42,089 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:42,115 - INFO - Đã trích xuất 8 bài viết từ trang 29
+2025-09-13 09:25:42,115 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_29.json
+2025-09-13 09:25:42,115 - INFO - Đã hoàn thành trang 29 với 8 bài viết
+2025-09-13 09:25:44,518 - INFO - Đang crawl trang 30...
+2025-09-13 09:25:44,518 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p30
+2025-09-13 09:25:45,967 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:45,971 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p30
+2025-09-13 09:25:46,194 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:46,228 - INFO - Đã trích xuất 8 bài viết từ trang 30
+2025-09-13 09:25:46,228 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_30.json
+2025-09-13 09:25:46,229 - INFO - Đã hoàn thành trang 30 với 8 bài viết
+2025-09-13 09:25:50,962 - INFO - Đang crawl trang 31...
+2025-09-13 09:25:50,962 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p31
+2025-09-13 09:25:52,641 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:52,646 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p31
+2025-09-13 09:25:52,806 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:52,831 - INFO - Đã trích xuất 8 bài viết từ trang 31
+2025-09-13 09:25:52,832 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_31.json
+2025-09-13 09:25:52,832 - INFO - Đã hoàn thành trang 31 với 8 bài viết
+2025-09-13 09:25:56,150 - INFO - Đang crawl trang 32...
+2025-09-13 09:25:56,150 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p32
+2025-09-13 09:25:57,765 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:57,769 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p32
+2025-09-13 09:25:58,141 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:25:58,173 - INFO - Đã trích xuất 8 bài viết từ trang 32
+2025-09-13 09:25:58,174 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_32.json
+2025-09-13 09:25:58,174 - INFO - Đã hoàn thành trang 32 với 8 bài viết
+2025-09-13 09:26:01,906 - INFO - Đang crawl trang 33...
+2025-09-13 09:26:01,906 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p33
+2025-09-13 09:26:03,599 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:03,604 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p33
+2025-09-13 09:26:03,820 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:03,845 - INFO - Đã trích xuất 8 bài viết từ trang 33
+2025-09-13 09:26:03,845 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_33.json
+2025-09-13 09:26:03,845 - INFO - Đã hoàn thành trang 33 với 8 bài viết
+2025-09-13 09:26:06,948 - INFO - Đang crawl trang 34...
+2025-09-13 09:26:06,949 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p34
+2025-09-13 09:26:08,541 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:08,545 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p34
+2025-09-13 09:26:08,705 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:08,731 - INFO - Đã trích xuất 8 bài viết từ trang 34
+2025-09-13 09:26:08,731 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_34.json
+2025-09-13 09:26:08,731 - INFO - Đã hoàn thành trang 34 với 8 bài viết
+2025-09-13 09:26:13,639 - INFO - Đang crawl trang 35...
+2025-09-13 09:26:13,639 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p35
+2025-09-13 09:26:15,206 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:15,210 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p35
+2025-09-13 09:26:15,364 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:15,390 - INFO - Đã trích xuất 8 bài viết từ trang 35
+2025-09-13 09:26:15,390 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_35.json
+2025-09-13 09:26:15,390 - INFO - Đã hoàn thành trang 35 với 8 bài viết
+2025-09-13 09:26:17,405 - INFO - Đang crawl trang 36...
+2025-09-13 09:26:17,405 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p36
+2025-09-13 09:26:18,767 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:18,771 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p36
+2025-09-13 09:26:18,977 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:19,004 - INFO - Đã trích xuất 8 bài viết từ trang 36
+2025-09-13 09:26:19,005 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_36.json
+2025-09-13 09:26:19,005 - INFO - Đã hoàn thành trang 36 với 8 bài viết
+2025-09-13 09:26:22,156 - INFO - Đang crawl trang 37...
+2025-09-13 09:26:22,156 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p37
+2025-09-13 09:26:23,873 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:23,878 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p37
+2025-09-13 09:26:24,067 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:24,092 - INFO - Đã trích xuất 8 bài viết từ trang 37
+2025-09-13 09:26:24,093 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_37.json
+2025-09-13 09:26:24,093 - INFO - Đã hoàn thành trang 37 với 8 bài viết
+2025-09-13 09:26:28,572 - INFO - Đang crawl trang 38...
+2025-09-13 09:26:28,572 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p38
+2025-09-13 09:26:30,153 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:30,156 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p38
+2025-09-13 09:26:30,357 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:30,387 - INFO - Đã trích xuất 8 bài viết từ trang 38
+2025-09-13 09:26:30,388 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_38.json
+2025-09-13 09:26:30,388 - INFO - Đã hoàn thành trang 38 với 8 bài viết
+2025-09-13 09:26:33,858 - INFO - Đang crawl trang 39...
+2025-09-13 09:26:33,859 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p39
+2025-09-13 09:26:35,777 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:35,783 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p39
+2025-09-13 09:26:36,077 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:36,141 - INFO - Đã trích xuất 8 bài viết từ trang 39
+2025-09-13 09:26:36,142 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_39.json
+2025-09-13 09:26:36,142 - INFO - Đã hoàn thành trang 39 với 8 bài viết
+2025-09-13 09:26:39,142 - INFO - Đang crawl trang 40...
+2025-09-13 09:26:39,142 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p40
+2025-09-13 09:26:39,340 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:39,344 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p40
+2025-09-13 09:26:39,544 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:39,576 - INFO - Đã trích xuất 8 bài viết từ trang 40
+2025-09-13 09:26:39,577 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_40.json
+2025-09-13 09:26:39,577 - INFO - Đã hoàn thành trang 40 với 8 bài viết
+2025-09-13 09:26:43,003 - INFO - Đang crawl trang 41...
+2025-09-13 09:26:43,003 - INFO - Khởi động lại driver sau 20 trang...
+2025-09-13 09:26:43,008 - INFO - Đang khởi động lại WebDriver...
+2025-09-13 09:26:43,079 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72b59777c940>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/be243e5e4cc84654bc53901cd9ebd37a
+2025-09-13 09:26:43,080 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72b59777c820>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/be243e5e4cc84654bc53901cd9ebd37a
+2025-09-13 09:26:43,080 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72b59777cc40>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/be243e5e4cc84654bc53901cd9ebd37a
+2025-09-13 09:26:44,168 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-13 09:26:44,169 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Việt...
+2025-09-13 09:26:48,364 - INFO - URL hiện tại sau khi chuyển ngôn ngữ: https://www.cmc.com.vn/
+2025-09-13 09:26:48,365 - INFO - Đã chuyển đổi ngôn ngữ sang tiếng Việt thành công!
+2025-09-13 09:26:48,365 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p41
+2025-09-13 09:26:48,675 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:48,681 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p41
+2025-09-13 09:26:48,982 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:49,023 - INFO - Đã trích xuất 8 bài viết từ trang 41
+2025-09-13 09:26:49,024 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_41.json
+2025-09-13 09:26:49,024 - INFO - Đã hoàn thành trang 41 với 8 bài viết
+2025-09-13 09:26:52,702 - INFO - Đang crawl trang 42...
+2025-09-13 09:26:52,703 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p42
+2025-09-13 09:26:54,131 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:54,135 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p42
+2025-09-13 09:26:54,366 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:26:54,398 - INFO - Đã trích xuất 8 bài viết từ trang 42
+2025-09-13 09:26:54,487 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_42.json
+2025-09-13 09:26:54,487 - INFO - Đã hoàn thành trang 42 với 8 bài viết
+2025-09-13 09:26:58,591 - INFO - Đang crawl trang 43...
+2025-09-13 09:26:58,591 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p43
+2025-09-13 09:27:00,117 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:00,121 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p43
+2025-09-13 09:27:00,393 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:00,423 - INFO - Đã trích xuất 8 bài viết từ trang 43
+2025-09-13 09:27:00,424 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_43.json
+2025-09-13 09:27:00,424 - INFO - Đã hoàn thành trang 43 với 8 bài viết
+2025-09-13 09:27:02,585 - INFO - Đang crawl trang 44...
+2025-09-13 09:27:02,585 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p44
+2025-09-13 09:27:04,023 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:04,026 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p44
+2025-09-13 09:27:04,279 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:04,315 - INFO - Đã trích xuất 8 bài viết từ trang 44
+2025-09-13 09:27:04,315 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_44.json
+2025-09-13 09:27:04,315 - INFO - Đã hoàn thành trang 44 với 8 bài viết
+2025-09-13 09:27:08,963 - INFO - Đang crawl trang 45...
+2025-09-13 09:27:08,963 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p45
+2025-09-13 09:27:10,635 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:10,640 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p45
+2025-09-13 09:27:10,876 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:10,909 - INFO - Đã trích xuất 8 bài viết từ trang 45
+2025-09-13 09:27:10,910 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_45.json
+2025-09-13 09:27:10,910 - INFO - Đã hoàn thành trang 45 với 8 bài viết
+2025-09-13 09:27:14,421 - INFO - Đang crawl trang 46...
+2025-09-13 09:27:14,421 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p46
+2025-09-13 09:27:16,025 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:16,030 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p46
+2025-09-13 09:27:16,263 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:16,298 - INFO - Đã trích xuất 8 bài viết từ trang 46
+2025-09-13 09:27:16,298 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_46.json
+2025-09-13 09:27:16,298 - INFO - Đã hoàn thành trang 46 với 8 bài viết
+2025-09-13 09:27:19,474 - INFO - Đang crawl trang 47...
+2025-09-13 09:27:19,474 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p47
+2025-09-13 09:27:21,012 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:21,022 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p47
+2025-09-13 09:27:21,273 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:21,307 - INFO - Đã trích xuất 8 bài viết từ trang 47
+2025-09-13 09:27:21,308 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_47.json
+2025-09-13 09:27:21,308 - INFO - Đã hoàn thành trang 47 với 8 bài viết
+2025-09-13 09:27:23,532 - INFO - Đang crawl trang 48...
+2025-09-13 09:27:23,533 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p48
+2025-09-13 09:27:25,226 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:25,231 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p48
+2025-09-13 09:27:25,543 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:25,578 - INFO - Đã trích xuất 8 bài viết từ trang 48
+2025-09-13 09:27:25,578 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_48.json
+2025-09-13 09:27:25,578 - INFO - Đã hoàn thành trang 48 với 8 bài viết
+2025-09-13 09:27:29,453 - INFO - Đang crawl trang 49...
+2025-09-13 09:27:29,453 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p49
+2025-09-13 09:27:35,162 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:35,168 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p49
+2025-09-13 09:27:35,385 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:35,419 - INFO - Đã trích xuất 8 bài viết từ trang 49
+2025-09-13 09:27:35,419 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_49.json
+2025-09-13 09:27:35,419 - INFO - Đã hoàn thành trang 49 với 8 bài viết
+2025-09-13 09:27:40,213 - INFO - Đang crawl trang 50...
+2025-09-13 09:27:40,213 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p50
+2025-09-13 09:27:41,815 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:41,820 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p50
+2025-09-13 09:27:42,057 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:42,097 - INFO - Đã trích xuất 8 bài viết từ trang 50
+2025-09-13 09:27:42,097 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_50.json
+2025-09-13 09:27:42,097 - INFO - Đã hoàn thành trang 50 với 8 bài viết
+2025-09-13 09:27:45,223 - INFO - Đang crawl trang 51...
+2025-09-13 09:27:45,223 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p51
+2025-09-13 09:27:46,900 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:46,904 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p51
+2025-09-13 09:27:47,110 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:47,146 - INFO - Đã trích xuất 8 bài viết từ trang 51
+2025-09-13 09:27:47,147 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_51.json
+2025-09-13 09:27:47,147 - INFO - Đã hoàn thành trang 51 với 8 bài viết
+2025-09-13 09:27:50,333 - INFO - Đang crawl trang 52...
+2025-09-13 09:27:50,333 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p52
+2025-09-13 09:27:53,050 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:53,054 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p52
+2025-09-13 09:27:53,255 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:53,289 - INFO - Đã trích xuất 8 bài viết từ trang 52
+2025-09-13 09:27:53,289 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_52.json
+2025-09-13 09:27:53,289 - INFO - Đã hoàn thành trang 52 với 8 bài viết
+2025-09-13 09:27:55,868 - INFO - Đang crawl trang 53...
+2025-09-13 09:27:55,868 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p53
+2025-09-13 09:27:57,500 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:57,504 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p53
+2025-09-13 09:27:57,944 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:27:57,982 - INFO - Đã trích xuất 8 bài viết từ trang 53
+2025-09-13 09:27:57,982 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_53.json
+2025-09-13 09:27:57,983 - INFO - Đã hoàn thành trang 53 với 8 bài viết
+2025-09-13 09:28:02,345 - INFO - Đang crawl trang 54...
+2025-09-13 09:28:02,345 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p54
+2025-09-13 09:28:03,983 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:03,988 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p54
+2025-09-13 09:28:04,475 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:04,517 - INFO - Đã trích xuất 8 bài viết từ trang 54
+2025-09-13 09:28:04,517 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_54.json
+2025-09-13 09:28:04,517 - INFO - Đã hoàn thành trang 54 với 8 bài viết
+2025-09-13 09:28:08,669 - INFO - Đang crawl trang 55...
+2025-09-13 09:28:08,669 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p55
+2025-09-13 09:28:10,266 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:10,271 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p55
+2025-09-13 09:28:10,447 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:10,480 - INFO - Đã trích xuất 8 bài viết từ trang 55
+2025-09-13 09:28:10,481 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_55.json
+2025-09-13 09:28:10,481 - INFO - Đã hoàn thành trang 55 với 8 bài viết
+2025-09-13 09:28:12,630 - INFO - Đang crawl trang 56...
+2025-09-13 09:28:12,630 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p56
+2025-09-13 09:28:14,348 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:14,354 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p56
+2025-09-13 09:28:14,584 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:14,621 - INFO - Đã trích xuất 8 bài viết từ trang 56
+2025-09-13 09:28:14,622 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_56.json
+2025-09-13 09:28:14,622 - INFO - Đã hoàn thành trang 56 với 8 bài viết
+2025-09-13 09:28:17,051 - INFO - Đang crawl trang 57...
+2025-09-13 09:28:17,051 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p57
+2025-09-13 09:28:18,422 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:18,427 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p57
+2025-09-13 09:28:18,626 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:18,687 - INFO - Đã trích xuất 8 bài viết từ trang 57
+2025-09-13 09:28:18,687 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_57.json
+2025-09-13 09:28:18,687 - INFO - Đã hoàn thành trang 57 với 8 bài viết
+2025-09-13 09:28:21,452 - INFO - Đang crawl trang 58...
+2025-09-13 09:28:21,452 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p58
+2025-09-13 09:28:23,089 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:23,093 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p58
+2025-09-13 09:28:23,331 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:23,365 - INFO - Đã trích xuất 8 bài viết từ trang 58
+2025-09-13 09:28:23,366 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_58.json
+2025-09-13 09:28:23,366 - INFO - Đã hoàn thành trang 58 với 8 bài viết
+2025-09-13 09:28:25,841 - INFO - Đang crawl trang 59...
+2025-09-13 09:28:25,841 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p59
+2025-09-13 09:28:27,381 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:27,386 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p59
+2025-09-13 09:28:27,620 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:27,654 - INFO - Đã trích xuất 8 bài viết từ trang 59
+2025-09-13 09:28:27,655 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_59.json
+2025-09-13 09:28:27,655 - INFO - Đã hoàn thành trang 59 với 8 bài viết
+2025-09-13 09:28:31,115 - INFO - Đang crawl trang 60...
+2025-09-13 09:28:31,115 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p60
+2025-09-13 09:28:32,639 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:32,649 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p60
+2025-09-13 09:28:32,864 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:32,905 - INFO - Đã trích xuất 8 bài viết từ trang 60
+2025-09-13 09:28:32,905 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_60.json
+2025-09-13 09:28:32,906 - INFO - Đã hoàn thành trang 60 với 8 bài viết
+2025-09-13 09:28:36,687 - INFO - Đang crawl trang 61...
+2025-09-13 09:28:36,687 - INFO - Khởi động lại driver sau 20 trang...
+2025-09-13 09:28:36,687 - INFO - Đang khởi động lại WebDriver...
+2025-09-13 09:28:36,760 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72b59777cfd0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/67545c4464b1da3291d3a368e5063cca
+2025-09-13 09:28:36,760 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72b59777cee0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/67545c4464b1da3291d3a368e5063cca
+2025-09-13 09:28:36,760 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72b59777cf10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/67545c4464b1da3291d3a368e5063cca
+2025-09-13 09:28:37,846 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-13 09:28:37,847 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Việt...
+2025-09-13 09:28:42,538 - INFO - URL hiện tại sau khi chuyển ngôn ngữ: https://www.cmc.com.vn/
+2025-09-13 09:28:42,538 - INFO - Đã chuyển đổi ngôn ngữ sang tiếng Việt thành công!
+2025-09-13 09:28:42,538 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p61
+2025-09-13 09:28:44,356 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:44,363 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p61
+2025-09-13 09:28:44,984 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:45,023 - INFO - Đã trích xuất 8 bài viết từ trang 61
+2025-09-13 09:28:45,023 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_61.json
+2025-09-13 09:28:45,023 - INFO - Đã hoàn thành trang 61 với 8 bài viết
+2025-09-13 09:28:49,917 - INFO - Đang crawl trang 62...
+2025-09-13 09:28:49,917 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p62
+2025-09-13 09:28:51,782 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:51,787 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p62
+2025-09-13 09:28:52,189 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:52,229 - INFO - Đã trích xuất 8 bài viết từ trang 62
+2025-09-13 09:28:52,229 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_62.json
+2025-09-13 09:28:52,229 - INFO - Đã hoàn thành trang 62 với 8 bài viết
+2025-09-13 09:28:55,759 - INFO - Đang crawl trang 63...
+2025-09-13 09:28:55,759 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p63
+2025-09-13 09:28:57,520 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:57,525 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p63
+2025-09-13 09:28:57,836 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:28:57,870 - INFO - Đã trích xuất 8 bài viết từ trang 63
+2025-09-13 09:28:57,870 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_63.json
+2025-09-13 09:28:57,870 - INFO - Đã hoàn thành trang 63 với 8 bài viết
+2025-09-13 09:29:01,241 - INFO - Đang crawl trang 64...
+2025-09-13 09:29:01,241 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p64
+2025-09-13 09:29:02,924 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:02,929 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p64
+2025-09-13 09:29:03,225 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:03,261 - INFO - Đã trích xuất 8 bài viết từ trang 64
+2025-09-13 09:29:03,261 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_64.json
+2025-09-13 09:29:03,261 - INFO - Đã hoàn thành trang 64 với 8 bài viết
+2025-09-13 09:29:08,125 - INFO - Đang crawl trang 65...
+2025-09-13 09:29:08,125 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p65
+2025-09-13 09:29:13,965 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:13,970 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p65
+2025-09-13 09:29:14,433 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:14,467 - INFO - Đã trích xuất 8 bài viết từ trang 65
+2025-09-13 09:29:14,468 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_65.json
+2025-09-13 09:29:14,468 - INFO - Đã hoàn thành trang 65 với 8 bài viết
+2025-09-13 09:29:17,549 - INFO - Đang crawl trang 66...
+2025-09-13 09:29:17,549 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p66
+2025-09-13 09:29:19,206 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:19,211 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p66
+2025-09-13 09:29:19,478 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:19,512 - INFO - Đã trích xuất 8 bài viết từ trang 66
+2025-09-13 09:29:19,512 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_66.json
+2025-09-13 09:29:19,512 - INFO - Đã hoàn thành trang 66 với 8 bài viết
+2025-09-13 09:29:21,690 - INFO - Đang crawl trang 67...
+2025-09-13 09:29:21,690 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p67
+2025-09-13 09:29:23,221 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:23,227 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p67
+2025-09-13 09:29:23,467 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:23,503 - INFO - Đã trích xuất 8 bài viết từ trang 67
+2025-09-13 09:29:23,503 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_67.json
+2025-09-13 09:29:23,503 - INFO - Đã hoàn thành trang 67 với 8 bài viết
+2025-09-13 09:29:27,451 - INFO - Đang crawl trang 68...
+2025-09-13 09:29:27,451 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p68
+2025-09-13 09:29:29,118 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:29,123 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p68
+2025-09-13 09:29:29,363 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:29,397 - INFO - Đã trích xuất 8 bài viết từ trang 68
+2025-09-13 09:29:29,398 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_68.json
+2025-09-13 09:29:29,398 - INFO - Đã hoàn thành trang 68 với 8 bài viết
+2025-09-13 09:29:34,031 - INFO - Đang crawl trang 69...
+2025-09-13 09:29:34,031 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p69
+2025-09-13 09:29:35,539 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:35,544 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p69
+2025-09-13 09:29:35,903 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:35,940 - INFO - Đã trích xuất 8 bài viết từ trang 69
+2025-09-13 09:29:35,940 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_69.json
+2025-09-13 09:29:35,940 - INFO - Đã hoàn thành trang 69 với 8 bài viết
+2025-09-13 09:29:40,527 - INFO - Đang crawl trang 70...
+2025-09-13 09:29:40,527 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p70
+2025-09-13 09:29:42,255 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:42,259 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p70
+2025-09-13 09:29:42,552 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:42,587 - INFO - Đã trích xuất 8 bài viết từ trang 70
+2025-09-13 09:29:42,587 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_70.json
+2025-09-13 09:29:42,587 - INFO - Đã hoàn thành trang 70 với 8 bài viết
+2025-09-13 09:29:45,145 - INFO - Đang crawl trang 71...
+2025-09-13 09:29:45,145 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p71
+2025-09-13 09:29:46,684 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:46,689 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p71
+2025-09-13 09:29:46,913 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:46,947 - INFO - Đã trích xuất 8 bài viết từ trang 71
+2025-09-13 09:29:46,947 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_71.json
+2025-09-13 09:29:46,947 - INFO - Đã hoàn thành trang 71 với 8 bài viết
+2025-09-13 09:29:50,276 - INFO - Đang crawl trang 72...
+2025-09-13 09:29:50,276 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p72
+2025-09-13 09:29:52,099 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:52,104 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p72
+2025-09-13 09:29:52,312 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:52,344 - INFO - Đã trích xuất 8 bài viết từ trang 72
+2025-09-13 09:29:52,345 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_72.json
+2025-09-13 09:29:52,345 - INFO - Đã hoàn thành trang 72 với 8 bài viết
+2025-09-13 09:29:56,383 - INFO - Đang crawl trang 73...
+2025-09-13 09:29:56,383 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p73
+2025-09-13 09:29:58,113 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:58,118 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p73
+2025-09-13 09:29:58,316 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:29:58,349 - INFO - Đã trích xuất 8 bài viết từ trang 73
+2025-09-13 09:29:58,350 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_73.json
+2025-09-13 09:29:58,350 - INFO - Đã hoàn thành trang 73 với 8 bài viết
+2025-09-13 09:30:00,616 - INFO - Đang crawl trang 74...
+2025-09-13 09:30:00,616 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p74
+2025-09-13 09:30:02,251 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:02,255 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p74
+2025-09-13 09:30:02,487 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:02,525 - INFO - Đã trích xuất 8 bài viết từ trang 74
+2025-09-13 09:30:02,525 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_74.json
+2025-09-13 09:30:02,525 - INFO - Đã hoàn thành trang 74 với 8 bài viết
+2025-09-13 09:30:04,690 - INFO - Đang crawl trang 75...
+2025-09-13 09:30:04,690 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p75
+2025-09-13 09:30:06,276 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:06,280 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p75
+2025-09-13 09:30:06,499 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:06,572 - INFO - Đã trích xuất 8 bài viết từ trang 75
+2025-09-13 09:30:06,573 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_75.json
+2025-09-13 09:30:06,573 - INFO - Đã hoàn thành trang 75 với 8 bài viết
+2025-09-13 09:30:11,078 - INFO - Đang crawl trang 76...
+2025-09-13 09:30:11,078 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p76
+2025-09-13 09:30:12,741 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:12,746 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p76
+2025-09-13 09:30:13,079 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:13,111 - INFO - Đã trích xuất 8 bài viết từ trang 76
+2025-09-13 09:30:13,112 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_76.json
+2025-09-13 09:30:13,112 - INFO - Đã hoàn thành trang 76 với 8 bài viết
+2025-09-13 09:30:15,791 - INFO - Đang crawl trang 77...
+2025-09-13 09:30:15,791 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p77
+2025-09-13 09:30:17,294 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:17,299 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p77
+2025-09-13 09:30:17,493 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:17,526 - INFO - Đã trích xuất 8 bài viết từ trang 77
+2025-09-13 09:30:17,526 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_77.json
+2025-09-13 09:30:17,527 - INFO - Đã hoàn thành trang 77 với 8 bài viết
+2025-09-13 09:30:21,189 - INFO - Đang crawl trang 78...
+2025-09-13 09:30:21,189 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p78
+2025-09-13 09:30:22,605 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:22,610 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p78
+2025-09-13 09:30:22,862 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:22,895 - INFO - Đã trích xuất 8 bài viết từ trang 78
+2025-09-13 09:30:22,895 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_78.json
+2025-09-13 09:30:22,895 - INFO - Đã hoàn thành trang 78 với 8 bài viết
+2025-09-13 09:30:26,202 - INFO - Đang crawl trang 79...
+2025-09-13 09:30:26,202 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p79
+2025-09-13 09:30:27,712 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:27,716 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p79
+2025-09-13 09:30:27,988 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:28,023 - INFO - Đã trích xuất 8 bài viết từ trang 79
+2025-09-13 09:30:28,023 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_79.json
+2025-09-13 09:30:28,023 - INFO - Đã hoàn thành trang 79 với 8 bài viết
+2025-09-13 09:30:30,790 - INFO - Đang crawl trang 80...
+2025-09-13 09:30:30,790 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p80
+2025-09-13 09:30:32,725 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:32,729 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p80
+2025-09-13 09:30:33,027 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:33,059 - INFO - Đã trích xuất 8 bài viết từ trang 80
+2025-09-13 09:30:33,060 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_80.json
+2025-09-13 09:30:33,060 - INFO - Đã hoàn thành trang 80 với 8 bài viết
+2025-09-13 09:30:36,968 - INFO - Đang crawl trang 81...
+2025-09-13 09:30:36,968 - INFO - Khởi động lại driver sau 20 trang...
+2025-09-13 09:30:36,968 - INFO - Đang khởi động lại WebDriver...
+2025-09-13 09:30:37,046 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72b59766b130>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/56d603e0ba47e36017aadb91d234003b
+2025-09-13 09:30:37,047 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72b59766be50>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/56d603e0ba47e36017aadb91d234003b
+2025-09-13 09:30:37,047 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72b59766bc10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/56d603e0ba47e36017aadb91d234003b
+2025-09-13 09:30:38,147 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-13 09:30:38,148 - INFO - Đang chuyển đổi ngôn ngữ sang tiếng Việt...
+2025-09-13 09:30:43,687 - INFO - URL hiện tại sau khi chuyển ngôn ngữ: https://www.cmc.com.vn/
+2025-09-13 09:30:43,687 - INFO - Đã chuyển đổi ngôn ngữ sang tiếng Việt thành công!
+2025-09-13 09:30:43,687 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p81
+2025-09-13 09:30:45,355 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:45,363 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p81
+2025-09-13 09:30:45,596 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:45,635 - INFO - Đã trích xuất 8 bài viết từ trang 81
+2025-09-13 09:30:45,636 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_81.json
+2025-09-13 09:30:45,636 - INFO - Đã hoàn thành trang 81 với 8 bài viết
+2025-09-13 09:30:47,760 - INFO - Đang crawl trang 82...
+2025-09-13 09:30:47,760 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p82
+2025-09-13 09:30:49,252 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:49,257 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p82
+2025-09-13 09:30:51,839 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:30:51,871 - INFO - Đã trích xuất 8 bài viết từ trang 82
+2025-09-13 09:30:51,872 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_82.json
+2025-09-13 09:30:51,872 - INFO - Đã hoàn thành trang 82 với 8 bài viết
+2025-09-13 09:30:56,138 - INFO - Đang crawl trang 83...
+2025-09-13 09:30:56,138 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p83
+2025-09-13 09:31:01,981 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:01,986 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p83
+2025-09-13 09:31:02,411 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:02,442 - INFO - Đã trích xuất 8 bài viết từ trang 83
+2025-09-13 09:31:02,442 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_83.json
+2025-09-13 09:31:02,442 - INFO - Đã hoàn thành trang 83 với 8 bài viết
+2025-09-13 09:31:06,102 - INFO - Đang crawl trang 84...
+2025-09-13 09:31:06,102 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p84
+2025-09-13 09:31:07,840 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:07,845 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p84
+2025-09-13 09:31:08,248 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:08,280 - INFO - Đã trích xuất 8 bài viết từ trang 84
+2025-09-13 09:31:08,281 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_84.json
+2025-09-13 09:31:08,281 - INFO - Đã hoàn thành trang 84 với 8 bài viết
+2025-09-13 09:31:12,466 - INFO - Đang crawl trang 85...
+2025-09-13 09:31:12,466 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p85
+2025-09-13 09:31:14,279 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:14,283 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p85
+2025-09-13 09:31:14,796 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:14,829 - INFO - Đã trích xuất 8 bài viết từ trang 85
+2025-09-13 09:31:14,829 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_85.json
+2025-09-13 09:31:14,829 - INFO - Đã hoàn thành trang 85 với 8 bài viết
+2025-09-13 09:31:17,348 - INFO - Đang crawl trang 86...
+2025-09-13 09:31:17,348 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p86
+2025-09-13 09:31:19,132 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:19,136 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p86
+2025-09-13 09:31:19,907 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:19,938 - INFO - Đã trích xuất 8 bài viết từ trang 86
+2025-09-13 09:31:19,939 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_86.json
+2025-09-13 09:31:19,939 - INFO - Đã hoàn thành trang 86 với 8 bài viết
+2025-09-13 09:31:23,699 - INFO - Đang crawl trang 87...
+2025-09-13 09:31:23,699 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p87
+2025-09-13 09:31:25,538 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:25,542 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p87
+2025-09-13 09:31:26,142 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:26,173 - INFO - Đã trích xuất 8 bài viết từ trang 87
+2025-09-13 09:31:26,173 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_87.json
+2025-09-13 09:31:26,173 - INFO - Đã hoàn thành trang 87 với 8 bài viết
+2025-09-13 09:31:28,230 - INFO - Đang crawl trang 88...
+2025-09-13 09:31:28,230 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p88
+2025-09-13 09:31:29,864 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:29,868 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p88
+2025-09-13 09:31:30,248 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:30,279 - INFO - Đã trích xuất 8 bài viết từ trang 88
+2025-09-13 09:31:30,280 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_88.json
+2025-09-13 09:31:30,280 - INFO - Đã hoàn thành trang 88 với 8 bài viết
+2025-09-13 09:31:34,378 - INFO - Đang crawl trang 89...
+2025-09-13 09:31:34,378 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p89
+2025-09-13 09:31:35,974 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:35,978 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p89
+2025-09-13 09:31:36,232 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:36,266 - INFO - Đã trích xuất 8 bài viết từ trang 89
+2025-09-13 09:31:36,266 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_89.json
+2025-09-13 09:31:36,266 - INFO - Đã hoàn thành trang 89 với 8 bài viết
+2025-09-13 09:31:39,911 - INFO - Đang crawl trang 90...
+2025-09-13 09:31:39,911 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p90
+2025-09-13 09:31:41,545 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:41,549 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p90
+2025-09-13 09:31:41,795 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:41,825 - INFO - Đã trích xuất 8 bài viết từ trang 90
+2025-09-13 09:31:41,826 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_90.json
+2025-09-13 09:31:41,826 - INFO - Đã hoàn thành trang 90 với 8 bài viết
+2025-09-13 09:31:46,470 - INFO - Đang crawl trang 91...
+2025-09-13 09:31:46,470 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p91
+2025-09-13 09:31:48,475 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:48,479 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p91
+2025-09-13 09:31:48,663 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:48,696 - INFO - Đã trích xuất 8 bài viết từ trang 91
+2025-09-13 09:31:48,696 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_91.json
+2025-09-13 09:31:48,696 - INFO - Đã hoàn thành trang 91 với 8 bài viết
+2025-09-13 09:31:53,509 - INFO - Đang crawl trang 92...
+2025-09-13 09:31:53,509 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p92
+2025-09-13 09:31:55,433 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:55,437 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p92
+2025-09-13 09:31:55,731 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:55,762 - INFO - Đã trích xuất 8 bài viết từ trang 92
+2025-09-13 09:31:55,763 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_92.json
+2025-09-13 09:31:55,763 - INFO - Đã hoàn thành trang 92 với 8 bài viết
+2025-09-13 09:31:58,507 - INFO - Đang crawl trang 93...
+2025-09-13 09:31:58,508 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p93
+2025-09-13 09:31:59,927 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:31:59,931 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p93
+2025-09-13 09:32:00,126 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:32:00,178 - INFO - Đã trích xuất 8 bài viết từ trang 93
+2025-09-13 09:32:00,178 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_93.json
+2025-09-13 09:32:00,178 - INFO - Đã hoàn thành trang 93 với 8 bài viết
+2025-09-13 09:32:02,233 - INFO - Đang crawl trang 94...
+2025-09-13 09:32:02,233 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p94
+2025-09-13 09:32:03,859 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:32:03,863 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p94
+2025-09-13 09:32:04,064 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:32:04,096 - INFO - Đã trích xuất 8 bài viết từ trang 94
+2025-09-13 09:32:04,096 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_94.json
+2025-09-13 09:32:04,096 - INFO - Đã hoàn thành trang 94 với 8 bài viết
+2025-09-13 09:32:08,155 - INFO - Đang crawl trang 95...
+2025-09-13 09:32:08,155 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p95
+2025-09-13 09:32:09,768 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:32:09,773 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p95
+2025-09-13 09:32:10,098 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:32:10,131 - INFO - Đã trích xuất 8 bài viết từ trang 95
+2025-09-13 09:32:10,131 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_95.json
+2025-09-13 09:32:10,131 - INFO - Đã hoàn thành trang 95 với 8 bài viết
+2025-09-13 09:32:14,301 - INFO - Đang crawl trang 96...
+2025-09-13 09:32:14,302 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p96
+2025-09-13 09:32:15,813 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:32:15,817 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p96
+2025-09-13 09:32:16,023 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:32:16,054 - INFO - Đã trích xuất 8 bài viết từ trang 96
+2025-09-13 09:32:16,054 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_96.json
+2025-09-13 09:32:16,054 - INFO - Đã hoàn thành trang 96 với 8 bài viết
+2025-09-13 09:32:19,735 - INFO - Đang crawl trang 97...
+2025-09-13 09:32:19,735 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p97
+2025-09-13 09:32:21,454 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:32:21,458 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p97
+2025-09-13 09:32:21,666 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:32:21,696 - INFO - Đã trích xuất 8 bài viết từ trang 97
+2025-09-13 09:32:21,696 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_97.json
+2025-09-13 09:32:21,696 - INFO - Đã hoàn thành trang 97 với 8 bài viết
+2025-09-13 09:32:23,916 - INFO - Đang crawl trang 98...
+2025-09-13 09:32:23,916 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p98
+2025-09-13 09:32:25,336 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:32:25,340 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p98
+2025-09-13 09:32:25,758 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:32:25,788 - INFO - Đã trích xuất 8 bài viết từ trang 98
+2025-09-13 09:32:25,788 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_98.json
+2025-09-13 09:32:25,788 - INFO - Đã hoàn thành trang 98 với 8 bài viết
+2025-09-13 09:32:28,008 - INFO - Đang crawl trang 99...
+2025-09-13 09:32:28,008 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p99
+2025-09-13 09:32:29,557 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:32:29,561 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p99
+2025-09-13 09:32:29,814 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:32:29,845 - INFO - Đã trích xuất 8 bài viết từ trang 99
+2025-09-13 09:32:29,846 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_99.json
+2025-09-13 09:32:29,846 - INFO - Đã hoàn thành trang 99 với 8 bài viết
+2025-09-13 09:32:32,335 - INFO - Đang crawl trang 100...
+2025-09-13 09:32:32,335 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p100
+2025-09-13 09:32:32,971 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:32:32,975 - INFO - Đang điều hướng đến trang crawl: https://www.cmc.com.vn/insight/tin-tuc/p100
+2025-09-13 09:32:33,236 - INFO - Đã điều hướng đến trang crawl thành công!
+2025-09-13 09:32:33,267 - INFO - Đã trích xuất 8 bài viết từ trang 100
+2025-09-13 09:32:33,268 - INFO - Đã lưu 8 bài viết vào ../../dataset/link/cmc_corporation/cmc_page_100.json
+2025-09-13 09:32:33,268 - INFO - Đã hoàn thành trang 100 với 8 bài viết
+2025-09-13 09:32:36,631 - INFO - Đã lưu tổng cộng 800 bài viết vào ../../dataset/link/cmc_corporation/cmc_all_articles.json
+2025-09-13 09:32:36,631 - INFO - Hoàn thành crawl! Tổng cộng 800 bài viết từ 100 trang
+2025-09-13 09:32:36,703 - INFO - Đã đóng WebDriver

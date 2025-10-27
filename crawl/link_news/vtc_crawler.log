@@ -1,0 +1,72 @@
+2025-09-09 11:46:52,683 - INFO - Đã tạo thư mục: ../dataset/link/vtc
+2025-09-09 11:47:14,057 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 11
+2025-09-09 11:47:15,165 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 11:47:15,165 - INFO - Đang crawl trang 1...
+2025-09-09 11:47:22,157 - INFO - Trang 1 có 6 bài viết
+2025-09-09 11:47:27,539 - INFO - Tìm thấy 6 link bài viết trên trang 1
+2025-09-09 11:47:27,539 - INFO - Đã trích xuất 6 bài viết unique từ trang 1
+2025-09-09 11:47:27,539 - INFO - Đã lưu 6 bài viết vào ../dataset/link/vtc/vtc_page_1.json
+2025-09-09 11:47:27,539 - INFO - Đã hoàn thành trang 1 với 6 bài viết
+2025-09-09 11:47:31,870 - INFO - Đang crawl trang 2...
+2025-09-09 11:47:34,427 - INFO - Trang 2 có 6 bài viết
+2025-09-09 11:47:39,748 - INFO - Tìm thấy 6 link bài viết trên trang 2
+2025-09-09 11:47:39,749 - INFO - Đã trích xuất 6 bài viết unique từ trang 2
+2025-09-09 11:47:39,749 - INFO - Đã lưu 6 bài viết vào ../dataset/link/vtc/vtc_page_2.json
+2025-09-09 11:47:39,749 - INFO - Đã hoàn thành trang 2 với 6 bài viết
+2025-09-09 11:47:44,401 - INFO - Đang crawl trang 3...
+2025-09-09 11:47:47,029 - INFO - Trang 3 có 6 bài viết
+2025-09-09 11:47:52,382 - INFO - Tìm thấy 6 link bài viết trên trang 3
+2025-09-09 11:47:52,382 - INFO - Đã trích xuất 6 bài viết unique từ trang 3
+2025-09-09 11:47:52,382 - INFO - Đã lưu 6 bài viết vào ../dataset/link/vtc/vtc_page_3.json
+2025-09-09 11:47:52,382 - INFO - Đã hoàn thành trang 3 với 6 bài viết
+2025-09-09 11:47:57,325 - INFO - Đang crawl trang 4...
+2025-09-09 11:47:59,932 - INFO - Trang 4 có 6 bài viết
+2025-09-09 11:48:05,555 - INFO - Tìm thấy 6 link bài viết trên trang 4
+2025-09-09 11:48:05,555 - INFO - Đã trích xuất 6 bài viết unique từ trang 4
+2025-09-09 11:48:05,556 - INFO - Đã lưu 6 bài viết vào ../dataset/link/vtc/vtc_page_4.json
+2025-09-09 11:48:05,556 - INFO - Đã hoàn thành trang 4 với 6 bài viết
+2025-09-09 11:48:09,361 - INFO - Đang crawl trang 5...
+2025-09-09 11:48:12,099 - INFO - Trang 5 có 6 bài viết
+2025-09-09 11:48:17,420 - INFO - Tìm thấy 6 link bài viết trên trang 5
+2025-09-09 11:48:17,420 - INFO - Đã trích xuất 6 bài viết unique từ trang 5
+2025-09-09 11:48:17,421 - INFO - Đã lưu 6 bài viết vào ../dataset/link/vtc/vtc_page_5.json
+2025-09-09 11:48:17,421 - INFO - Đã hoàn thành trang 5 với 6 bài viết
+2025-09-09 11:48:22,198 - INFO - Đang crawl trang 6...
+2025-09-09 11:48:24,689 - INFO - Trang 6 có 6 bài viết
+2025-09-09 11:48:30,198 - INFO - Tìm thấy 6 link bài viết trên trang 6
+2025-09-09 11:48:30,198 - INFO - Đã trích xuất 6 bài viết unique từ trang 6
+2025-09-09 11:48:30,199 - INFO - Đã lưu 6 bài viết vào ../dataset/link/vtc/vtc_page_6.json
+2025-09-09 11:48:30,199 - INFO - Đã hoàn thành trang 6 với 6 bài viết
+2025-09-09 11:48:36,202 - INFO - Đang crawl trang 7...
+2025-09-09 11:48:38,956 - INFO - Trang 7 có 6 bài viết
+2025-09-09 11:48:44,262 - INFO - Tìm thấy 6 link bài viết trên trang 7
+2025-09-09 11:48:44,263 - INFO - Đã trích xuất 6 bài viết unique từ trang 7
+2025-09-09 11:48:44,263 - INFO - Đã lưu 6 bài viết vào ../dataset/link/vtc/vtc_page_7.json
+2025-09-09 11:48:44,263 - INFO - Đã hoàn thành trang 7 với 6 bài viết
+2025-09-09 11:48:48,115 - INFO - Đang crawl trang 8...
+2025-09-09 11:48:51,094 - INFO - Trang 8 có 6 bài viết
+2025-09-09 11:48:56,408 - INFO - Tìm thấy 6 link bài viết trên trang 8
+2025-09-09 11:48:56,408 - INFO - Đã trích xuất 6 bài viết unique từ trang 8
+2025-09-09 11:48:56,409 - INFO - Đã lưu 6 bài viết vào ../dataset/link/vtc/vtc_page_8.json
+2025-09-09 11:48:56,409 - INFO - Đã hoàn thành trang 8 với 6 bài viết
+2025-09-09 11:48:59,884 - INFO - Đang crawl trang 9...
+2025-09-09 11:49:02,408 - INFO - Trang 9 có 6 bài viết
+2025-09-09 11:49:07,825 - INFO - Tìm thấy 6 link bài viết trên trang 9
+2025-09-09 11:49:07,825 - INFO - Đã trích xuất 6 bài viết unique từ trang 9
+2025-09-09 11:49:07,826 - INFO - Đã lưu 6 bài viết vào ../dataset/link/vtc/vtc_page_9.json
+2025-09-09 11:49:07,826 - INFO - Đã hoàn thành trang 9 với 6 bài viết
+2025-09-09 11:49:11,326 - INFO - Đang crawl trang 10...
+2025-09-09 11:49:13,968 - INFO - Trang 10 có 6 bài viết
+2025-09-09 11:49:19,346 - INFO - Tìm thấy 6 link bài viết trên trang 10
+2025-09-09 11:49:19,346 - INFO - Đã trích xuất 6 bài viết unique từ trang 10
+2025-09-09 11:49:19,347 - INFO - Đã lưu 6 bài viết vào ../dataset/link/vtc/vtc_page_10.json
+2025-09-09 11:49:19,347 - INFO - Đã hoàn thành trang 10 với 6 bài viết
+2025-09-09 11:49:23,112 - INFO - Đang crawl trang 11...
+2025-09-09 11:49:25,762 - INFO - Trang 11 có 5 bài viết
+2025-09-09 11:49:31,092 - INFO - Tìm thấy 5 link bài viết trên trang 11
+2025-09-09 11:49:31,093 - INFO - Đã trích xuất 5 bài viết unique từ trang 11
+2025-09-09 11:49:31,093 - INFO - Đã lưu 5 bài viết vào ../dataset/link/vtc/vtc_page_11.json
+2025-09-09 11:49:31,093 - INFO - Đã hoàn thành trang 11 với 5 bài viết
+2025-09-09 11:49:35,579 - INFO - Đã lưu tổng cộng 65 bài viết vào ../dataset/link/vtc/vtc_all_articles.json
+2025-09-09 11:49:35,579 - INFO - Hoàn thành crawl! Tổng cộng 65 bài viết từ 11 trang
+2025-09-09 11:49:35,654 - INFO - Đã đóng WebDriver

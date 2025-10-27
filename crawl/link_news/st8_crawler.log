@@ -1,0 +1,55 @@
+2025-09-09 12:07:17,684 - INFO - Đã tạo thư mục: ../dataset/link/st8
+2025-09-09 12:07:26,915 - INFO - Bắt đầu crawl dữ liệu từ ST8
+2025-09-09 12:07:29,320 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 12:07:29,320 - INFO - Đang crawl trang 1...
+2025-09-09 12:07:33,694 - INFO - Trang 1 có 1 div chứa bài viết
+2025-09-09 12:07:40,950 - INFO - Trang 1: Tìm thấy 1 div chứa bài viết
+2025-09-09 12:07:40,950 - INFO - Trang 1: Đã trích xuất 1 bài viết unique
+2025-09-09 12:07:40,950 - INFO - Đã lưu 1 bài viết vào ../dataset/link/st8/st8_page_1.json
+2025-09-09 12:07:40,950 - INFO - Đã hoàn thành trang 1 với 1 bài viết
+2025-09-09 12:07:44,111 - INFO - Đang crawl trang 2...
+2025-09-09 12:07:47,345 - INFO - Trang 2 có 1 div chứa bài viết
+2025-09-09 12:07:54,731 - INFO - Trang 2: Tìm thấy 1 div chứa bài viết
+2025-09-09 12:07:54,731 - INFO - Trang 2: Đã trích xuất 1 bài viết unique
+2025-09-09 12:07:54,731 - INFO - Đã lưu 1 bài viết vào ../dataset/link/st8/st8_page_2.json
+2025-09-09 12:07:54,731 - INFO - Đã hoàn thành trang 2 với 1 bài viết
+2025-09-09 12:07:59,439 - INFO - Đang crawl trang 3...
+2025-09-09 12:08:02,999 - WARNING - Trang 3 không có bài viết hoặc đã hết dữ liệu
+2025-09-09 12:08:02,999 - WARNING - Trang 3 không có dữ liệu, thử trang tiếp theo...
+2025-09-09 12:08:02,999 - INFO - Đang crawl trang 4...
+2025-09-09 12:08:06,610 - WARNING - Trang 4 không có bài viết hoặc đã hết dữ liệu
+2025-09-09 12:08:06,611 - WARNING - Trang 4 không có dữ liệu, thử trang tiếp theo...
+2025-09-09 12:08:06,611 - INFO - Đang crawl trang 5...
+2025-09-09 12:08:09,965 - WARNING - Trang 5 không có bài viết hoặc đã hết dữ liệu
+2025-09-09 12:08:09,965 - WARNING - Trang 5 không có dữ liệu, thử trang tiếp theo...
+2025-09-09 12:08:09,965 - INFO - Đang crawl trang 6...
+2025-09-09 12:08:13,754 - WARNING - Trang 6 không có bài viết hoặc đã hết dữ liệu
+2025-09-09 12:08:13,754 - WARNING - Trang 6 không có dữ liệu, thử trang tiếp theo...
+2025-09-09 12:08:13,754 - INFO - Đang crawl trang 7...
+2025-09-09 12:08:17,130 - WARNING - Trang 7 không có bài viết hoặc đã hết dữ liệu
+2025-09-09 12:08:17,130 - INFO - Đã crawl xong. 5 trang liên tiếp không có dữ liệu.
+2025-09-09 12:08:17,131 - INFO - Đã lưu tổng cộng 2 bài viết vào ../dataset/link/st8/st8_all_articles.json
+2025-09-09 12:08:17,131 - INFO - Đã tạo file backup: st8_all_articles_20250909_120817.json
+2025-09-09 12:08:17,131 - INFO - Hoàn thành crawl! Tổng cộng 2 bài viết từ 6 trang
+2025-09-09 12:08:17,190 - INFO - Đã đóng WebDriver
+2025-09-09 12:45:56,029 - ERROR - Lỗi không mong đợi: 'ST8Crawler' object has no attribute 'crawl_all_pages'
+2025-09-09 12:46:04,590 - ERROR - Lỗi không mong đợi: 'ST8Crawler' object has no attribute 'crawl_pages_range'
+2025-09-09 12:46:25,392 - ERROR - Lỗi không mong đợi: 'ST8Crawler' object has no attribute 'crawl_single_page'
+2025-09-09 12:47:33,720 - INFO - Bắt đầu crawl dữ liệu từ trang 1 đến trang 2
+2025-09-09 12:47:34,815 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 12:47:34,815 - INFO - Đang crawl trang 1...
+2025-09-09 12:47:39,181 - INFO - Trang 1 có 8 div chứa bài viết
+2025-09-09 12:47:46,445 - INFO - Trang 1: Tìm thấy 8 div chứa bài viết
+2025-09-09 12:47:46,445 - INFO - Trang 1: Đã trích xuất 8 bài viết unique
+2025-09-09 12:47:46,446 - INFO - Đã lưu 8 bài viết vào ../dataset/link/st8/st8_page_1.json
+2025-09-09 12:47:46,446 - INFO - Đã hoàn thành trang 1 với 8 bài viết
+2025-09-09 12:47:49,467 - INFO - Đang crawl trang 2...
+2025-09-09 12:47:52,687 - INFO - Trang 2 có 7 div chứa bài viết
+2025-09-09 12:47:59,935 - INFO - Trang 2: Tìm thấy 7 div chứa bài viết
+2025-09-09 12:47:59,935 - INFO - Trang 2: Đã trích xuất 7 bài viết unique
+2025-09-09 12:47:59,935 - INFO - Đã lưu 7 bài viết vào ../dataset/link/st8/st8_page_2.json
+2025-09-09 12:47:59,935 - INFO - Đã hoàn thành trang 2 với 7 bài viết
+2025-09-09 12:48:03,276 - INFO - Đã lưu tổng cộng 15 bài viết vào ../dataset/link/st8/st8_all_articles.json
+2025-09-09 12:48:03,276 - INFO - Đã tạo file backup: st8_all_articles_20250909_124803.json
+2025-09-09 12:48:03,276 - INFO - Hoàn thành crawl! Tổng cộng 15 bài viết từ 2 trang
+2025-09-09 12:48:03,335 - INFO - Đã đóng WebDriver

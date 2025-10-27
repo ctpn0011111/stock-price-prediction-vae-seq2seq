@@ -1,0 +1,7 @@
+[ERROR] W=90, H=7 -> name 'RobustScaler' is not defined
+Traceback (most recent call last):
+  File "/tmp/ipython-input-991776654.py", line 36, in run_tuner
+    x_scaler = RobustScaler()
+               ^^^^^^^^^^^^
+NameError: name 'RobustScaler' is not defined
+

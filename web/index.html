@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <title>Stock Forecast Dashboard</title>
+
+    <!-- PHÁ CACHE CSS -->
+    <link rel="stylesheet" href="style.css?v=light5" />
+
+    <!-- Plotly -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  </head>
+  <body>
+    <header class="header">
+      <h1>Stock Forecast Dashboard</h1>
+
+      <div class="controls">
+        <label>
+          Mã cổ phiếu
+          <select id="symbolSelect"></select>
+        </label>
+        <label>
+          Backtest days
+          <input id="btDays" type="number" min="10" step="5" value="60" />
+        </label>
+      </div>
+
+      <section class="metrics-grid">
+        <div class="metric-card">
+          <div class="metric-label">RMSE</div>
+          <div id="rmseVal" class="metric-value">—</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-label">MAPE</div>
+          <div id="mapeVal" class="metric-value">—</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-label">DA</div>
+          <div id="daVal" class="metric-value">—</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-label">TA</div>
+          <div id="taVal" class="metric-value">—</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-label">SDA</div>
+          <div id="sdaVal" class="metric-value">—</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-label">Số ngày backtest</div>
+          <div id="daysVal" class="metric-value">—</div>
+        </div>
+      </section>
+    </header>
+
+    <main class="container">
+      <section class="chart-card">
+        <div class="chart-header"><h2 id="chartTitle">Biểu đồ dự báo</h2></div>
+        <div class="charts-grid">
+          <div id="priceChart" class="chart"></div>
+          <div id="volumeChart" class="chart"></div>
+          <div id="rsiChart" class="chart"></div>
+          <div id="macdChart" class="chart"></div>
+        </div>
+      </section>
+    </main>
+
+    <!-- PHÁ CACHE JS -->
+    <script src="app.js?v=light5"></script>
+  </body>
+</html>

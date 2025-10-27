@@ -1,0 +1,15 @@
+numpy==2.2.6
+pandas==2.3.2
+matplotlib==3.10.5
+seaborn==0.13.2
+tensorflow==2.20.0
+scikit-learn==1.7.2
+joblib==1.5.2
+fastapi==0.119.0
+uvicorn==0.37.0
+mplfinance==0.12.10b0
+underthesea==6.8.4
+beautifulsoup4==4.13.4
+requests==2.32.5
+selenium==4.35.0
+vnstock==3.2.6

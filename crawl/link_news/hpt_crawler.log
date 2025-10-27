@@ -1,0 +1,86 @@
+2025-09-09 11:24:32,150 - INFO - WebDriver đã được khởi tạo thành công
+2025-09-09 11:24:32,150 - INFO - Đã tạo thư mục: ../dataset/link/hpt
+2025-09-09 11:24:45,556 - INFO - Bắt đầu crawl tối đa 16 trang từ HPT
+2025-09-09 11:24:47,955 - INFO - Đã truy cập trang đầu tiên: https://hpt.vn/newscate/27
+2025-09-09 11:24:47,955 - INFO - Đang crawl trang 1/16...
+2025-09-09 11:24:47,976 - INFO - Đã trích xuất 12 bài viết từ trang 1
+2025-09-09 11:24:47,977 - INFO - Đã lưu 12 bài viết vào ../dataset/link/hpt/hpt_page_1.json
+2025-09-09 11:24:47,977 - INFO - Đã hoàn thành trang 1 với 12 bài viết
+2025-09-09 11:24:48,021 - INFO - Đã click vào nút Next để chuyển trang
+2025-09-09 11:24:53,026 - INFO - Đang crawl trang 2/16...
+2025-09-09 11:24:53,057 - INFO - Đã trích xuất 12 bài viết từ trang 2
+2025-09-09 11:24:53,057 - INFO - Đã lưu 12 bài viết vào ../dataset/link/hpt/hpt_page_2.json
+2025-09-09 11:24:53,057 - INFO - Đã hoàn thành trang 2 với 12 bài viết
+2025-09-09 11:24:53,079 - INFO - Đã click vào nút Next để chuyển trang
+2025-09-09 11:24:58,084 - INFO - Đang crawl trang 3/16...
+2025-09-09 11:24:58,114 - INFO - Đã trích xuất 12 bài viết từ trang 3
+2025-09-09 11:24:58,115 - INFO - Đã lưu 12 bài viết vào ../dataset/link/hpt/hpt_page_3.json
+2025-09-09 11:24:58,115 - INFO - Đã hoàn thành trang 3 với 12 bài viết
+2025-09-09 11:24:58,138 - INFO - Đã click vào nút Next để chuyển trang
+2025-09-09 11:25:03,142 - INFO - Đang crawl trang 4/16...
+2025-09-09 11:25:03,159 - INFO - Đã trích xuất 12 bài viết từ trang 4
+2025-09-09 11:25:03,159 - INFO - Đã lưu 12 bài viết vào ../dataset/link/hpt/hpt_page_4.json
+2025-09-09 11:25:03,159 - INFO - Đã hoàn thành trang 4 với 12 bài viết
+2025-09-09 11:25:03,191 - INFO - Đã click vào nút Next để chuyển trang
+2025-09-09 11:25:08,196 - INFO - Đang crawl trang 5/16...
+2025-09-09 11:25:08,266 - INFO - Đã trích xuất 12 bài viết từ trang 5
+2025-09-09 11:25:08,267 - INFO - Đã lưu 12 bài viết vào ../dataset/link/hpt/hpt_page_5.json
+2025-09-09 11:25:08,267 - INFO - Đã hoàn thành trang 5 với 12 bài viết
+2025-09-09 11:25:08,292 - INFO - Đã click vào nút Next để chuyển trang
+2025-09-09 11:25:13,297 - INFO - Đang crawl trang 6/16...
+2025-09-09 11:25:13,331 - INFO - Đã trích xuất 12 bài viết từ trang 6
+2025-09-09 11:25:13,332 - INFO - Đã lưu 12 bài viết vào ../dataset/link/hpt/hpt_page_6.json
+2025-09-09 11:25:13,332 - INFO - Đã hoàn thành trang 6 với 12 bài viết
+2025-09-09 11:25:13,362 - INFO - Đã click vào nút Next để chuyển trang
+2025-09-09 11:25:18,367 - INFO - Đang crawl trang 7/16...
+2025-09-09 11:25:18,386 - INFO - Đã trích xuất 12 bài viết từ trang 7
+2025-09-09 11:25:18,386 - INFO - Đã lưu 12 bài viết vào ../dataset/link/hpt/hpt_page_7.json
+2025-09-09 11:25:18,386 - INFO - Đã hoàn thành trang 7 với 12 bài viết
+2025-09-09 11:25:18,410 - INFO - Đã click vào nút Next để chuyển trang
+2025-09-09 11:25:23,415 - INFO - Đang crawl trang 8/16...
+2025-09-09 11:25:23,434 - INFO - Đã trích xuất 12 bài viết từ trang 8
+2025-09-09 11:25:23,434 - INFO - Đã lưu 12 bài viết vào ../dataset/link/hpt/hpt_page_8.json
+2025-09-09 11:25:23,434 - INFO - Đã hoàn thành trang 8 với 12 bài viết
+2025-09-09 11:25:23,454 - INFO - Đã click vào nút Next để chuyển trang
+2025-09-09 11:25:28,458 - INFO - Đang crawl trang 9/16...
+2025-09-09 11:25:28,481 - INFO - Đã trích xuất 12 bài viết từ trang 9
+2025-09-09 11:25:28,482 - INFO - Đã lưu 12 bài viết vào ../dataset/link/hpt/hpt_page_9.json
+2025-09-09 11:25:28,482 - INFO - Đã hoàn thành trang 9 với 12 bài viết
+2025-09-09 11:25:28,506 - INFO - Đã click vào nút Next để chuyển trang
+2025-09-09 11:25:33,511 - INFO - Đang crawl trang 10/16...
+2025-09-09 11:25:33,530 - INFO - Đã trích xuất 12 bài viết từ trang 10
+2025-09-09 11:25:33,530 - INFO - Đã lưu 12 bài viết vào ../dataset/link/hpt/hpt_page_10.json
+2025-09-09 11:25:33,531 - INFO - Đã hoàn thành trang 10 với 12 bài viết
+2025-09-09 11:25:33,554 - INFO - Đã click vào nút Next để chuyển trang
+2025-09-09 11:25:38,558 - INFO - Đang crawl trang 11/16...
+2025-09-09 11:25:38,577 - INFO - Đã trích xuất 12 bài viết từ trang 11
+2025-09-09 11:25:38,578 - INFO - Đã lưu 12 bài viết vào ../dataset/link/hpt/hpt_page_11.json
+2025-09-09 11:25:38,578 - INFO - Đã hoàn thành trang 11 với 12 bài viết
+2025-09-09 11:25:38,604 - INFO - Đã click vào nút Next để chuyển trang
+2025-09-09 11:25:43,608 - INFO - Đang crawl trang 12/16...
+2025-09-09 11:25:43,627 - INFO - Đã trích xuất 12 bài viết từ trang 12
+2025-09-09 11:25:43,628 - INFO - Đã lưu 12 bài viết vào ../dataset/link/hpt/hpt_page_12.json
+2025-09-09 11:25:43,628 - INFO - Đã hoàn thành trang 12 với 12 bài viết
+2025-09-09 11:25:43,658 - INFO - Đã click vào nút Next để chuyển trang
+2025-09-09 11:25:48,663 - INFO - Đang crawl trang 13/16...
+2025-09-09 11:25:48,686 - INFO - Đã trích xuất 12 bài viết từ trang 13
+2025-09-09 11:25:48,686 - INFO - Đã lưu 12 bài viết vào ../dataset/link/hpt/hpt_page_13.json
+2025-09-09 11:25:48,686 - INFO - Đã hoàn thành trang 13 với 12 bài viết
+2025-09-09 11:25:48,720 - INFO - Đã click vào nút Next để chuyển trang
+2025-09-09 11:25:53,725 - INFO - Đang crawl trang 14/16...
+2025-09-09 11:25:53,745 - INFO - Đã trích xuất 12 bài viết từ trang 14
+2025-09-09 11:25:53,746 - INFO - Đã lưu 12 bài viết vào ../dataset/link/hpt/hpt_page_14.json
+2025-09-09 11:25:53,746 - INFO - Đã hoàn thành trang 14 với 12 bài viết
+2025-09-09 11:25:53,770 - INFO - Đã click vào nút Next để chuyển trang
+2025-09-09 11:25:58,775 - INFO - Đang crawl trang 15/16...
+2025-09-09 11:25:58,795 - INFO - Đã trích xuất 12 bài viết từ trang 15
+2025-09-09 11:25:58,796 - INFO - Đã lưu 12 bài viết vào ../dataset/link/hpt/hpt_page_15.json
+2025-09-09 11:25:58,796 - INFO - Đã hoàn thành trang 15 với 12 bài viết
+2025-09-09 11:25:58,828 - INFO - Đã click vào nút Next để chuyển trang
+2025-09-09 11:26:03,833 - INFO - Đang crawl trang 16/16...
+2025-09-09 11:26:03,853 - INFO - Đã trích xuất 12 bài viết từ trang 16
+2025-09-09 11:26:03,854 - INFO - Đã lưu 12 bài viết vào ../dataset/link/hpt/hpt_page_16.json
+2025-09-09 11:26:03,854 - INFO - Đã hoàn thành trang 16 với 12 bài viết
+2025-09-09 11:26:05,856 - INFO - Đã lưu tổng cộng 192 bài viết vào ../dataset/link/hpt/hpt_all_articles.json
+2025-09-09 11:26:05,856 - INFO - Hoàn thành crawl! Tổng cộng 192 bài viết từ 16 trang
+2025-09-09 11:26:05,927 - INFO - Đã đóng WebDriver

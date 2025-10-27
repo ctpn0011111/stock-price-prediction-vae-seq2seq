@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Khám phá các sự kiện thường niên nổi bật của VNG",
+        "url": "https://vng.com.vn/news/enterprise2/vng-su-kien.html",
+        "date_crawled": "2025-09-10"
+    },
+    {
+        "id": 2,
+        "title": "Ý nghĩa logo của Công ty cổ phần VNG",
+        "url": "https://vng.com.vn/news/enterprise2/y-nghia-logo-vng.html",
+        "date_crawled": "2025-09-10"
+    },
+    {
+        "id": 3,
+        "title": "VNG đồng hành cùng eSports Việt Nam tại các giải đấu",
+        "url": "https://vng.com.vn/news/enterprise2/vng-esports.html",
+        "date_crawled": "2025-09-10"
+    },
+    {
+        "id": 4,
+        "title": "VNG đầu tư cho Trung tâm dữ liệu (Data Center)",
+        "url": "https://vng.com.vn/news/enterprise2/vng-data-center.html",
+        "date_crawled": "2025-09-10"
+    },
+    {
+        "id": 5,
+        "title": "VNG thành lập quỹ từ thiện “Dream Maker Foundation”",
+        "url": "https://vng.com.vn/news/enterprise2/vng-foundation.html",
+        "date_crawled": "2025-09-10"
+    },
+    {
+        "id": 6,
+        "title": "VNG Cloud - Giải pháp chuyển đổi số đáng tin cậy",
+        "url": "https://vng.com.vn/news/enterprise2/vng-cloud-la-gi.html",
+        "date_crawled": "2025-09-10"
+    },
+    {
+        "id": 7,
+        "title": "Zing MP3 ra mắt Báo cáo thị trường âm nhạc Việt Nam 2023",
+        "url": "https://vng.com.vn/news/enterprise2/zingmp3-ra-mat-bao-cao-thi-truong-am-nhac-viet-nam-2023.html",
+        "date_crawled": "2025-09-10"
+    },
+    {
+        "id": 8,
+        "title": "VNGGames kết hợp công nghệ và nghệ thuật trong kỷ nguyên AI",
+        "url": "https://vng.com.vn/news/technology/vnggames-ket-hop-cong-nghe-va-nghe-thuat-trong-ky-nguyen-ai-4064.html",
+        "date_crawled": "2025-09-10"
+    },
+    {
+        "id": 9,
+        "title": "Verichains mở rộng quan hệ chiến lược với các đối tác Web3 tại Hà ...",
+        "url": "https://vng.com.vn/news/technology/verichains-mo-rong-quan-he-chien-luoc-voi-cac-doi-tac-web3-tai-han-quoc.html",
+        "date_crawled": "2025-09-10"
+    },
+    {
+        "id": 10,
+        "title": "ZaloPay hợp tác cùng CIMB ra mắt sản phẩm Gửi Tiết Kiệm: Lãi suất ...",
+        "url": "https://vng.com.vn/news/technology/zalopay-hop-tac-cung-cimb-ra-mat-san-pham-gui-tiet-kiem.html",
+        "date_crawled": "2025-09-10"
+    }
+]
