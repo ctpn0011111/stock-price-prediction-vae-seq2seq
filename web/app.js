@@ -120,6 +120,7 @@ function renderChartsSeparated(symbol, data) {
   });
 
   // Price
+  // Price (đã loại bỏ EMA/MA)
   Plotly.react(
     "priceChart",
     [
@@ -137,22 +138,6 @@ function renderChartsSeparated(symbol, data) {
         name: `Forecast (+${yf.length})`,
         mode: "lines",
         line: { dash: "dot" },
-      },
-      { x: t, y: ema20, name: "EMA 20", mode: "lines", line: { width: 1.5 } },
-      { x: t, y: ema60, name: "EMA 60", mode: "lines", line: { width: 1.5 } },
-      {
-        x: t,
-        y: ma10,
-        name: "MA 10",
-        mode: "lines",
-        line: { width: 1, dash: "dot" },
-      },
-      {
-        x: t,
-        y: ma20,
-        name: "MA 20",
-        mode: "lines",
-        line: { width: 1, dash: "dot" },
       },
     ],
     commonLayout("Giá & Forecast", "Price"),
